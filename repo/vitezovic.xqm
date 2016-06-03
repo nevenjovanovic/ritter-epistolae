@@ -47,7 +47,7 @@ return vit:rows2(data($title), $versecount)
 let $totalcount := sum(data($textcounts//tr/td[2]))
 return element tbody { $textcounts//tr ,
 element tr { 
-element td { "Omnes versus" },
+element td { element em { "Omnes versus" } },
 element td { $totalcount } }
 }
 };

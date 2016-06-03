@@ -41,6 +41,7 @@ declare
 <div class="container-fluid">
 <div class="col-md-6">
 <p>Ritter Vitezović et Ovidius: <a href="http://croala.ffzg.unizg.hr">CroALa</a> et <a href="http://www.perseus.tufts.edu/">Persei bibliotheca digitalis</a>, { current-date() }.</p>
+<p><a href="http://orcid.org/0000-0002-9119-399X">Neven Jovanović</a>, <a href="http://www.unipu.hr/index.php?id=273">Violeta Moretti</a>, <a href="https://unipu.academia.edu/GoranaStepanic">Gorana Stepanić</a></p>
 <p>Quot versus in epistulis Ritteri Vitezović, quot in epistulis Ovidianis?</p>
 <p>Functio nominatur: {rest:uri()}.</p>
 </div>
@@ -60,7 +61,16 @@ declare
 	<td>Quot versus</td>
   </tr>
 	</thead>
-	
+	{vit:versecount("vitezovic-epistolae2")}
+  </table>
+  <table class="table-striped  table-hover table-centered">
+	<thead>
+	<tr>
+  <td>Titulus</td>
+	<td>Quot versus</td>
+  </tr>
+	</thead>
+  {vit:versecount("ovid-pdl2")}
   
      </table>
      </div>
