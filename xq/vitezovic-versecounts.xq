@@ -7,7 +7,7 @@ return element tr {
   element td { $versecount }
 } }
 let $totalcount := sum(data($textcounts//tr/td[2]))
-return element table { $textcounts//tr ,
+return element tbody { $textcounts//tr ,
 element tr { 
 element td { "Omnes versus" },
 element td { $totalcount } }
