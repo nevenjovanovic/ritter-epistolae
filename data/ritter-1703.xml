@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epistolarum metricarum liber – 1703, versio electronica</title>
+            <author>
+          <name xml:lang="hr">Pavao Ritter Vitezović</name> (<date>1652–1713</date>)</author>
+            <editor>Violeta Moretti</editor>
+            <editor>Gorana Stepanić</editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <name>Neven Jovanović</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-04-06T09:27:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written by OpenOffice</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Gorana</name>
+               <date>2016-04-06T09:32:00</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="liber" n="6" xml:id="r1703">
+                  <head>VI. Equitis Pauli Ritter <emph>Epistolarum metricarum liber</emph>  – 1703 </head>
+                  <milestone unit="page" n="178"/>
+                  <head>EQUITIS PAULI RITTER EPISTOLARUM METRICARUM LIBER [---]<gap/>
+        </head>
+                  <div type="div1" rend="P10">
+                     <head>1. Ad Dominum Episcopum Zagrabiensem</head>
+                  
+                  <l n="6.1.1">Percipe nascentem nova directoria in annum,</l>
+                  <l n="6.1.2"> Divinum officium quae recitare docent.</l>
+                  <l n="6.1.3">His amplae <sic>eclesiae</sic> pius alleviato ministros,</l>
+                  <l n="6.1.4"> Aucta sanctorum laude et honore Dei.</l>
+                  <l n="6.1.5">At, Deus omnipotens ut te meliore salute  5</l>
+                  <l n="6.1.6"> Hoc anno et post hunc pluribus, oro, beet.</l>
+                  <l n="6.1.7">Ecclesiae ut semper prosis pietate paterna</l>
+                  <l n="6.1.8"> Et Superûm cultum latiùs ire juves,</l>
+                  <l n="6.1.9">Ut sic transactis fati feliciter annis</l>
+                  <l n="6.1.10"> Ad Superûm coetus ipse beatus eas. 10</l>
+                  <l n="6.1.11">Cuncta adversa veter secum transegerit annus,</l>
+                  <l n="6.1.12"> Adferat optata et prospera cuncta novus.</l>
+                  <l n="6.1.13">At mihi in hocce novo veterem converte favorem,</l>
+                  <l n="6.1.14"> Cultorem veterem vel novo amore fove.</l>
+                  <l n="6.1.15">Non ego cultorem nego me: mea scripta fatentur, 15</l>
+                  <l n="6.1.16"> Quae tua perpetuo nomina jure canent.</l>
+                  <l n="6.1.17">Quamquam sint, de me mala qui fortasse loquuntur,</l>
+                  <l n="6.1.18"> Quis, quaeso, invidiae clauderet omne labrum?</l>
+                  <l n="6.1.19">Hoc commune malum toto quia serpit in orbe,</l>
+                  <l n="6.1.20"> Nec Slavnum voluit <sic>praeteriise</sic> solum. 20</l>
+                  <l n="6.1.21">Sola mihi virtus inimicos fecit: amicos</l>
+                  <l n="6.1.22"> Factura est eadem sed mihi, spero, Deos.</l>
+                  <l n="6.1.23">Et si me mundus patiatur semper egenum,</l>
+                  <l n="6.1.24"> Cujus ego propria negligo sponte bonum,</l>
+                  <l n="6.1.25">179 Post mea fata tamen multis ero ditior olim, 25</l>
+                  <l n="6.1.26"> Aeternas virtus namque ministrat opes.</l>
+                  <l n="6.1.27">Si vel <expan>et</expan> hasce neget mihi sors durissima semper,</l>
+                  <l n="6.1.28"> In coelo meritis praemia spero meis.</l>
+                  <l n="6.1.29">Accipe grata animum, Praesul, pietate fidelem,</l>
+                  <l n="6.1.30"> Sospes et optata prosperitate vale. 30</l>
+                  <dateline>Zagrabiae 2. Januarii 1703. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>2. Ad Dominum Episcopum Seńensem</head>
+                  
+                  <l n="6.2.1">Te, bis herì veni, Praesul, cupiendo videre,</l>
+                  <l n="6.2.2"> Sed fortuna mihi te vice utraque negat.</l>
+                  <l n="6.2.3">Quòd valeas laetor, sed quòd te Sava moretur,</l>
+                  <l n="6.2.4"> Auguriis, opto, sit mora plena bonis.</l>
+                  <l n="6.2.5">Tres praecessores primò tibi mitto repertos, 5</l>
+                  <l n="6.2.6"> Sed studium plures pòst reperire dabit.</l>
+                  <l n="6.2.7">Vulgandus lacrymas Patriae dispono dolentis,</l>
+                  <l n="6.2.8"> Principio et fini subdere pauca parans.</l>
+                  <l n="6.2.9">Si placet his <sic>lacrymis</sic> aliquem superaddere versum,</l>
+                  <l n="6.2.10"> Quo tuus in Patriam testificetur amor, 10</l>
+                  <l n="6.2.11">Ut genio sacris faeto, Martine, Camaenis</l>
+                  <l n="6.2.12"> Polles, et Patriam, candide Civis, amas:</l>
+                  <l n="6.2.13">Expectat liber hic, quo sit spectatior idem,</l>
+                  <l n="6.2.14"> Ingeniique tui personet ultrò decus.</l>
+                  <l n="6.2.15">Sumpturus pransum cum Bosnae Antistite; te pòst, 15</l>
+                  <l n="6.2.16"> Si mihi concedis, visere, tendo. Vale.</l>
+                  <dateline>Zagrabiae 4. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>3. Ad Dominum Abbatem Franciscum Vernić</head>
+                  
+                  <l n="6.3.1">Promissi, quaeso, fiat mihi copia libri: </l>
+                  <l n="6.3.2"> Perlectus, tibi mox restituetur idem.</l>
+                  <l n="6.3.3">Si tu de nostris optas quem forsan habere,</l>
+                  <l n="6.3.4"> Tota tibi prostat bibliotheca. Vale.</l>
+                  <dateline>Zagrabiae 5. Januarii  </dateline>
+               </div>                  
+            <milestone unit="page" n="180"/>
+               <div type="div1">
+
+                  
+                     <head>4. Ad Eundem</head>
+                  
+                  <l n="6.4.1">Ut mihi missus erat, librum, Francisce, remitto.</l>
+                  <l n="6.4.2"> Da, rogo, posse alium sic revidere. Vale.</l>
+                  <dateline>Zagrabiae 7. Januarii  </dateline>
+               </div>
+               <div type="div1" ana="alius">
+                  <head>&lt;Responsum Francisci Vernich&gt;</head>
+                  
+                     <head>5. Spectabilis ac Magnifice Domine, Frater <expan>et</expan>  Amice Sincerissime </head>
+                  
+                  <l n="6.5.1">Accepi gratò libri fragmenta remissi,</l>
+                  <l n="6.5.2"> Quò doleo votis non potuisse tuis</l>
+                  <l n="6.5.3">Me inseruire satìs; quoque credito vix mea tales</l>
+                  <l n="6.5.4"> Iam reperire potest Bibliotheca libros.</l>
+                  <signed>Suae Spectabilis ac Magnificae Dominionis<lb/>
+                  Servus ad servitia paratissimus<lb/>
+                  Franciscus Vernich Abbas manu propria</signed>
+               </div>
+               <div type="div1" ana="alius">
+                  <head>&lt;Epistola Josephi Rabattae&gt;</head>
+                  
+                     <head>6. Perillustris ac Generose Domine, Domine Amice observandissime, Josephus Comes Rabatta </head>
+                  
+                  <l n="6.6.1">Corditer accepi Tua Carmina, Nobilis Heros, </l>
+                  <l n="6.6.2"> Illaque perlegi cuncta petita simul.</l>
+                  <l n="6.6.3">Sunt haec ingenij radiantia lumina, Ritter,</l>
+                  <l n="6.6.4"> Et genuit cerebrum docta Minerva Tuum.</l>
+                  <l n="6.6.5">Quantum ex parte mea, Tibi certè corde juvabo, 5</l>
+                  <l n="6.6.6"> Ac <persName next="stanius">Herber</persName> mecum <persName prev="Herber">stanius</persName> id faciet.</l>
+                  <l n="6.6.7">Nostris ergo datis promissis stabimus ambo.</l>
+                  <l n="6.6.8"> Obsequar alterius sique valebo Tibi.</l>
+                  <l n="6.6.9">Prospera cuncta Tibi renovati comprecor anni,</l>
+                  <l n="6.6.10"> Aethereique simul gaudia vera Poli. 10</l>
+                  <dateline>Wilthaus 1. Januarij 1703.  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>7. Ad Dominum Comitem Josephum de Rabatta</head>
+                  
+                  <l n="6.7.1">Perpetuas inter, Comes Illustrissime, curas</l>
+                  <l n="6.7.2"> Solatur me anno littera prima novo,</l>
+                  <l n="6.7.3">Quam tua praeclaro descripsit dextera versu,</l>
+                  <l n="6.7.4"> Littera sinceri nuntium amoris agens.</l>
+                  <l n="6.7.5">Hunc ego ceu necdum merui sat, sorte noverca,  5</l>
+                  <l n="6.7.6"> Est spes atque animus, velle merere, tamen.</l>
+                  <l n="6.7.7">181 <sic>Defficit</sic> haud animus mihi: spem tu (quaeso) juvato,</l>
+                  <l n="6.7.8"> Qui cum Herberstejno multa, Rabatta, potes.</l>
+                  <l n="6.7.9">Quod peto, non quaero propter mea commoda, quantum </l>
+                  <l n="6.7.10"> Propter servitium Caesaris atque Dei. 10</l>
+                  <l n="6.7.11">Hinc et vestra magìs renitebit gloria per me, </l>
+                  <l n="6.7.12"> Ad mea si justam vota feratis opem.</l>
+                  <l n="6.7.13">Ergo cùm vultis duo vos, qui ritè potestis,</l>
+                  <l n="6.7.14"> Aulam etiam votis spero favere meis.</l>
+                  <l n="6.7.15">Caesarea Augustae me novit Vindebonensis, 15</l>
+                  <l n="6.7.16"> Gracensi notum vos facitote, rogo,</l>
+                  <l n="6.7.17">Donec et ipse queam dignis notescere factis,</l>
+                  <l n="6.7.18"> Ad quae non virtus, non geniusve deest.</l>
+                  <l n="6.7.19">Sors inimica facit medio subsistere cursu, et</l>
+                  <l n="6.7.20"> Nomine reque Equitem saepiùs ire pedes. 20</l>
+                  <l n="6.7.21">Ut tamen iste novus fatis melioribus annus</l>
+                  <l n="6.7.22"> Ad tua decurrat vota beanda, precor.</l>
+                  <l n="6.7.23">Incolumem multis servent te numina lustris,</l>
+                  <l n="6.7.24"> Felicem tellus reddat et Astra. Vale.</l>
+                  <dateline> Zagrabiae 8. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>8. Ad Dominum Comitem Ferdinandum ab Herberstein</head>
+                  
+                  <l n="6.8.1">Sole mihi exacti postremo mensis et anni</l>
+                  <l n="6.8.2"> Littera scripta tuo venit amore mihi.</l>
+                  <l n="6.8.3">Qui cùm fausta mihi de Coelo cuncta precaris,</l>
+                  <l n="6.8.4"> De stabili certum me facis ultrò fide.</l>
+                  <l n="6.8.5">Indigeo, fateor, fatis melioribus, at non 5</l>
+                  <l n="6.8.6"> In tuo erat dubium (crede) favore mihi.</l>
+                  <l n="6.8.7">Integer es, constansque fide, ratione docemur,</l>
+                  <l n="6.8.8"> Innatum hoc munus candor Equestris habet.</l>
+                  <l n="6.8.9">Notificatque tuos ultrò ipse Rabatta favores,</l>
+                  <l n="6.8.10"> Quos mihi sincere pectore semper alis. 10</l>
+                  <l n="6.8.11">Dij faciant, et me vestrûm experiatur uterque,</l>
+                  <l n="6.8.12"> Quantus inest animus, quis mihi candor inest.</l>
+                  <l n="6.8.13">182 Ast impar generoso animo fortuna, latere</l>
+                  <l n="6.8.14"> Proficuumque minùs pluribus esse facit.</l>
+                  <l n="6.8.15">Dij tamen, à quorum dependent omnia nutu, 15</l>
+                  <l n="6.8.16"> In melius vertant tristia fata bonum.</l>
+                  <l n="6.8.17">Qui tibi felici, salvo incolumique benigni</l>
+                  <l n="6.8.18"> Nestoreos faciant enumerare dies.</l>
+                  <l n="6.8.19">Differri promissa mei, patienter habeto,</l>
+                  <l n="6.8.20"> Hactenus impediit plurimus illa labor. 20</l>
+                  <l n="6.8.21">Quae paucos intra soles, Ferdnande, videbis,</l>
+                  <l n="6.8.22"> Utque accepta tibi sint magìs opto. Vale.</l>
+                  <dateline> Zagrabiae 8. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>9. Ad Dominum Vice-Banum</head>
+                  
+                  <l n="6.9.1">Pro natalitio duo Kalendaria pomo</l>
+                  <l n="6.9.2"> Mitto: unum Dominae nempè, aliudque tibi,</l>
+                  <l n="6.9.3">Cum qua hunc et multos alios feliciter annos </l>
+                  <l n="6.9.4"> Transige. Meque pij Patris adinstar ama.</l>
+                  <dateline> Zagrabiae 8. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>10. Ad Dominum Episcopum Seńensem</head>
+                  
+                  <l n="6.10.1">Si jàm descriptum responsum est, si quoquè carmen</l>
+                  <l n="6.10.2"> Ad Patriae lacrymas ponere, Praesul, aves,</l>
+                  <l n="6.10.3">Mitte utrumque, rogo: simul ut tua fama perennet,</l>
+                  <l n="6.10.4"> Quae per se celebris fulget, eritque magìs.</l>
+                  <l n="6.10.5">Annales ruditer conscriptos voce Croata 5</l>
+                  <l n="6.10.6"> Suggero, pòst quorum copia major erit.</l>
+                  <l n="6.10.7">Si fortasse paras tuto discedere Savo,</l>
+                  <l n="6.10.8"> Propitii, oro, tuum Dij comitentur iter.</l>
+                  <l n="6.10.9">Ut, via cùm mala sit, sit iter duce numine faustum,</l>
+                  <l n="6.10.10"> Incolumi patrios det Tibi adire lares. 10</l>
+                  <l n="6.10.11">Non tamen ut faciant, te sede senescere in illa,</l>
+                  <l n="6.10.12"> Qui jam majori culmine dignus ades.</l>
+                  <l n="6.10.13">183 Hoc tua cùm virtus mereatur, vota tuorum</l>
+                  <l n="6.10.14"> Complebunt superi pro pietate sua.</l>
+                  <l n="6.10.15">Nunc nil contribuo tibi praeter vota, vel istis 15</l>
+                  <l n="6.10.16"> Impia me tandem sors spoliare nequit.</l>
+                  <l n="6.10.17">Hunc tamen affectum, rupturus vincula sortis,</l>
+                  <l n="6.10.18"> Re quadam digna testificare paro.</l>
+                  <l n="6.10.19">Interea tibi me devotum semper amato,</l>
+                  <l n="6.10.20"> Et rebus faustis ad tua vota vale.  20</l>
+                  <dateline> Zagrabiae 9. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>11. Ad Dominum Praepositum Zagrabiensem</head>
+                  
+                  <l n="6.11.1">Visere Paulinam si cras intendis eremum,</l>
+                  <l n="6.11.2"> Sume tuae comitem me, rogo, Paule, viae.</l>
+                  <l n="6.11.3">Nunc Equitem spoliavit equis sors prorsus iniqua:</l>
+                  <l n="6.11.4"> Sorte mea tu sis aequior ergo. Vale.</l>
+                  <dateline>Zagrabiae 14. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>12. Ad Dominum Franciscum Honorium Comitem à Trautmansdorff</head>
+                  
+                  <l n="6.12.1">Tertius hic supra bis denos, inclyte Honori,</l>
+                  <l n="6.12.2"> Cùm tibi scripsissem, fulget in orbe dies.</l>
+                  <l n="6.12.3">Tunc perquisitae misi mea facta Coronae,</l>
+                  <l n="6.12.4"> Nunc defleta duo saecula mitto tibi.</l>
+                  <l n="6.12.5">In quod tunc petii, repeto, converte favores, 5</l>
+                  <l n="6.12.6"> Si mihi quem solido pectore adusque foves.</l>
+                  <l n="6.12.7">Quo magìs evincas, devotum jàm tibi pridèm,</l>
+                  <l n="6.12.8"> Qualem subscribo me tibi in aeva. Vale.</l>
+                  <dateline>Zagrabiae 15. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>13. Ad Dominum Aloysium Comitem ab Harrach</head>
+                  
+                  <l n="6.13.1">Solamen mihi grata tulit tua littera magnum,</l>
+                  <l n="6.13.2"> Affectûs in me, nuntia fida, tui.</l>
+                  <l n="6.13.3">Talis in heroo nutritur pectore virtus,</l>
+                  <l n="6.13.4"> In te quae à patrio sanguine nata viget.</l>
+                  <l n="6.13.5">184 Sic vestrae celebrem pennae super aethera famam,  5</l>
+                  <l n="6.13.6"> Orbe illam aeternùm devenerante ferent.</l>
+                  <l n="6.13.7">Scilicet Heroës virtus benefactaque claros</l>
+                  <l n="6.13.8"> Ipsis ritè solent aequiparare diis.</l>
+                  <l n="6.13.9">Proposito persiste tuo, Comes inclyte, donec</l>
+                  <l n="6.13.10"> Egregiae facias id pietatis opus, 10</l>
+                  <l n="6.13.11">Quo me Lika tui cultorem nacta fidelem</l>
+                  <l n="6.13.12"> Cantet et in choreïs nomina vestra suis.</l>
+                  <l n="6.13.13">Ante dies paucos hic pressum jungo poëma,</l>
+                  <l n="6.13.14"> Quo miserum deflet Nympha Croata statum.</l>
+                  <l n="6.13.15">Meque tuum nunquam profiteri cesso clientem,</l>
+                  <l n="6.13.16"> Tu quoque me nunquam desine amare. Vale.  15</l>
+                  <dateline>Zagrabiae 19. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>14. Ad Dominum Comitem Ferdinandum ab Herberstein</head>
+                  
+                  <l n="6.14.1">Accipe devoti signum, Ferdnande, tributi,</l>
+                  <l n="6.14.2"> Quod tuus angusto tempore mittit Eques,</l>
+                  <l n="6.14.3">Donec adinveniat tempus, quo ritè decenti </l>
+                  <l n="6.14.4"> Ad te pacta modo mittere plura queat.</l>
+                  <l n="6.14.5">Hoc apud Helvetios jàm Trautmansdorfius Heros,  5</l>
+                  <l n="6.14.6"> Vindebona hoc Harrach magnus in urbe legit.</l>
+                  <l n="6.14.7">Hoc Bucelenus habet quoque Cancellarius Aulae,</l>
+                  <l n="6.14.8"> Et plures alii, quos venerando colo.</l>
+                  <l n="6.14.9">Unde meos ipsi, totus quoque postmodo mundus,</l>
+                  <l n="6.14.10"> Affectus erga te me morare queant. 10</l>
+                  <l n="6.14.11">Denique me totum tibi cum resigno lubenter,</l>
+                  <l n="6.14.12"> Nec tu me talem desine amare. Vale.</l>
+                  <dateline>Zagrabiae 19. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>15. Ad Dominum Georgium Comitem Erdeodium, Regalium per Ungariam Tavernicorum Magistrum</head>
+                  
+                  <l n="6.15.1">Nuper in hac Graeco-Zagrabinis montis in urbe</l>
+                  <l n="6.15.2"> Exceptus dapibus, magne Dynasta, tuis.</l>
+                  <l n="6.15.3">Fecimus Illyricae quaedam quoque verba Coronae,</l>
+                  <l n="6.15.4"> Cujus quaerendae credita cura mihi est.</l>
+                  <l n="6.15.5">Hujus processum praesenti adjungo tabellae, 5</l>
+                  <l n="6.15.6"> Illam Dij Patriae <sic>dento</sic> redire suae.</l>
+                  <l n="6.15.7">185 Sic ego pro Patria, pro Rege exantlo labores,</l>
+                  <l n="6.15.8"> Sèd magè fausti alii praemia utrinque ferunt.</l>
+                  <l n="6.15.9">Dij te conservent multis feliciter annis, </l>
+                  <l n="6.15.10"> Ut videas priscum Patria in hacce decus.  10</l>
+                  <l n="6.15.11">Simque tibi charus, qualem me Banus habebat.</l>
+                  <l n="6.15.12"> Niclaus, Patruus scilicet ille tuus.</l>
+                  <l n="6.15.13">Nempe domus vestrae fidus me seruo Clientem,</l>
+                  <l n="6.15.14"> Quod bene testantur plurima scripta. Vale.</l>
+                  <dateline>Zagrabiae 20. Januarii 1703.  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>16. Ad Dominum Praepositum Zagrabiensem</head>
+                  
+                  <l n="6.16.1">Annua conversi redierunt festa Patroni, </l>
+                  <l n="6.16.2"> Qui nostrum Pauli nomen utrique dedit.</l>
+                  <l n="6.16.3">Haec tibi cùm salvo Superi celebrare dederunt,</l>
+                  <l n="6.16.4"> Per plures annos dent recolenda precor.</l>
+                  <l n="6.16.5">Cum crescente tamen fortuna et honoribus amplis, 5</l>
+                  <l n="6.16.6"> Praesuleoque throno, purpureaque toga.</l>
+                  <l n="6.16.7">Id precor à Superis devota mente: precabor</l>
+                  <l n="6.16.8"> Cum sociis inter pocula laeta quoque.</l>
+                  <l n="6.16.9">Vive, et cum sociis faustè laeteris amicis, </l>
+                  <l n="6.16.10"> Ipsorum memorem me fore, crede. Vale. 10</l>
+                  <dateline> Zagrabiae 25. Januarii 1703.  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>17. Ad Dominum Prępositum Tituliensem</head>
+                  
+                  <l n="6.17.1">Sacra piè celebrans magni solemnia Pauli,</l>
+                  <l n="6.17.2"> Salve, Paule, bonis propitiisque Diis.</l>
+                  <l n="6.17.3">Qui te Nestores salvum incolumemque per annos</l>
+                  <l n="6.17.4"> Servent, atque istam dent celebrare diem.</l>
+                  <l n="6.17.5">Ut, quae praepositum Titulina Ecclesia honorat, 5</l>
+                  <l n="6.17.6"> Altera Praelatum dînde videre queat.</l>
+                  <l n="6.17.7">Sicque diu Superis et Amicis vivito felix:</l>
+                  <l n="6.17.8"> Donec ad Coeli regna beatus eas.</l>
+                  <l n="6.17.9">Talia sincero promit de pectore vota</l>
+                  <l n="6.17.10"> Ille, tuus longo tempore, Paulus Eques. 10</l>
+                  <l n="6.17.11">Quem quoque tu veteri conserves semper amore,</l>
+                  <l n="6.17.12"> O Cantu, Tuscan, vivito, digne. Vale.</l>
+                  <dateline>Zagrabiae 25. Januarii 1703.  </dateline>
+               </div>
+                  <milestone unit="page" n="186"/>
+               <div type="div1">
+                     <head>18. Ad Dominum Comitem Jonatam Ivanovich Canonicum Zagrabieńsem</head>
+                  
+                  <l n="6.18.1">Nunc tibi, lugenti dilectae funera matris,</l>
+                  <l n="6.18.2"> Scribere sincerus penè vetabat amor.</l>
+                  <l n="6.18.3">Novi etenim, laesam tam grandi vulnere mentem</l>
+                  <l n="6.18.4"> Vix propriae curam sumere velle rei.</l>
+                  <l n="6.18.5">Sed, quia cuncta facis dextrè prudentia, spero, 5</l>
+                  <l n="6.18.6"> Te regit, et <sic>mestum</sic> temperat illa tuum.</l>
+                  <l n="6.18.7">Mortales omnes metam properamus ad unam,</l>
+                  <l n="6.18.8"> Serius aut citiùs mors adeunda manet.</l>
+                  <l n="6.18.9">Est dolor, egregio cùm quis privatur Amico, </l>
+                  <l n="6.18.10"> Grandior orbari sed genitrice dolor. 10</l>
+                  <l n="6.18.11">At quia non omnes momento nascimur uno,</l>
+                  <l n="6.18.12"> Non omnes uno tempore Parca rapit.</l>
+                  <l n="6.18.13">Illa piae Matris specimen sapiensque virago,</l>
+                  <l n="6.18.14"> <sic>Accepsit</sic> vitae laeta perennis iter.</l>
+                  <l n="6.18.15">Laeta inquam, quae te cum fratre Davide reliquit, 15</l>
+                  <l n="6.18.16"> Inque bono Mater post sua fata statu.</l>
+                  <l n="6.18.17">Sic curis mundi mulier generosa soluta,</l>
+                  <l n="6.18.18"> In coelis fruitur nunc meliore bono.</l>
+                  <l n="6.18.19">Illa igitur felix aeterna in pace quiescat,</l>
+                  <l n="6.18.20"> Tuque diu felix ad bona fata vale.  20</l>
+                  <dateline>Zagrabiae 26. Januarii 1703.  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>19. Ad Dominum Cancellarium Aulicum Transylvanum</head>
+                  
+                  <l n="6.19.1">Post tibi transmissum, non ad data vota, libellum,</l>
+                  <l n="6.19.2"> Non vidi scriptum, Kalnoky magne, tuum.</l>
+                  <l n="6.19.3">Quamquam poscebam, quaedam disponere velles,</l>
+                  <l n="6.19.4"> Quae debere tibi me satìs usque scio.</l>
+                  <l n="6.19.5">Neve offendaris, votis frustratus in illo, 5</l>
+                  <l n="6.19.6"> Temporis ùt verè, non mea, culpa fuit.</l>
+                  <l n="6.19.7">Ipse tamen semper cultor persisto fidelis,</l>
+                  <l n="6.19.8"> Qualem saepè pius me tibi vovit amor.</l>
+                  <l n="6.19.9">Promissas Nymphae lacrymas hìc mitto Croatae, 
+                  </l>
+                  <l n="6.19.10"> Et rogo, me ulteriùs, Kalnoky, amato. Vale. 10</l>
+                  <dateline>Zagrabiae 26. Januarii 1703.  </dateline>
+               </div>
+                  <milestone unit="page" n="187"/>
+               <div type="div1">
+                     <head>20. Ad Dominum Secretarium d'Abele</head>
+                  
+                  <l n="6.20.1">Tempore quòd tanto sileas, mihi mira videtur</l>
+                  <l n="6.20.2"> Res, quem votorum justa cupido tenet.</l>
+                  <l n="6.20.3">Pollicito nolis mihi, quaeso, deesse favore:</l>
+                  <l n="6.20.4"> Sunt etenim plures, quia mea vota juvant.</l>
+                  <l n="6.20.5">Dura nec Excelsae Camerae resolutio fiet, 5</l>
+                  <l n="6.20.6"> Quae per me speret commoda multa sibi.</l>
+                  <l n="6.20.7">Tuque vices fautoris agas, Cameraeque, clientem</l>
+                  <l n="6.20.8"> Effice me, et felix ad tua vota vale.</l>
+                  <dateline>Zagrabiae 26. Januarii  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>21. Ad Dominum Summum Cancellarium Aulicum, Comitem Bucellenium</head>
+                  
+                  <l n="6.21.1">Reddita post multos mihi venit epistola menses,</l>
+                  <l n="6.21.2"> Scripta tua subtus, Vir pretiose, manu.</l>
+                  <l n="6.21.3">Cuj, pridem optatus, reverentia basia fixi,</l>
+                  <l n="6.21.4"> In te conceptam spem reparabat amor.</l>
+                  <l n="6.21.5">Ast bene perlecto, pro Likae munere puncto, 5</l>
+                  <l n="6.21.6"> Nil video nostrae te tribuisse spei.</l>
+                  <l n="6.21.7">Consilio qui summa tuo committere novit,</l>
+                  <l n="6.21.8"> Hanc modicam rem non te sine Caesar aget.</l>
+                  <l n="6.21.9">Hinc benè sperandi ratio mihi maxima semper,</l>
+                  <l n="6.21.10"> Instantesque alios posse praeire fuit, 10</l>
+                  <l n="6.21.11">Cum mihi tu favens, meritis cùm <sic>premia</sic> nostris,</l>
+                  <l n="6.21.12"> Pollicitus sacro Caesar et ore fuit.</l>
+                  <l n="6.21.13">Cum meliùs Likae populos non noverit alter,</l>
+                  <l n="6.21.14"> Nemoque plus lucri reddere posset Hero.</l>
+                  <l n="6.21.15">Si tamen aut Caesar, aut tu <sic>fortase</sic>, Patrone, 15</l>
+                  <l n="6.21.16"> Qua mihi cunque Likam de ratione neges:</l>
+                  <l n="6.21.17">Nunc manet Ungarica Cancellos inter in Aula</l>
+                  <l n="6.21.18"> Hoffmani vacuus post pia fata locus,</l>
+                  <l n="6.21.19">Hunc (rogo) procures [------]<gap/> </l>
+                  <l n="6.21.20">[------]<gap/>
+          </l>
+               </div>
+               </div>
+      </body>
+   </text>
+</TEI>

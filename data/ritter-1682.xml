@@ -1,0 +1,1719 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Otia metrica – 1682/84, versio electronica</title>
+            <author>
+          <name xml:lang="hr">Pavao Ritter Vitezović</name> (<date>1652–1713</date>)</author>
+            <editor>Violeta Moretti</editor>
+            <editor>Gorana Stepanić</editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <name>Neven Jovanović</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-04-06T09:27:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written by OpenOffice</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Gorana</name>
+               <date>2016-04-06T09:32:00</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="liber" n="3" xml:id="r1682">
+               <head>III. Equitis Pauli Ritter <emph>Otia metrica</emph>  – 1682/84  </head>
+               <div type="div1">
+                  <head>3 
+               &lt;1.&gt;
+                  </head>
+                  <l n="3.1.1">[...]<gap/>
+                  </l>
+                  <l n="3.1.2">Atque ut in obsequiis, ceu cuĵ nil charius illis,</l>
+                  <l n="3.1.3"> Sustentem vitam, convaleamque, suis,</l>
+                  <l n="3.1.4">Annua demissa suffragia mente petebam,</l>
+                  <l n="3.1.5"> Tanquam cuĵ nullae possideantur opes.</l>
+                  <l n="3.1.6">Dum jam centenis triginta circiter annis 5</l>
+                  <l n="3.1.7"> Hoc ex Teutonica nobilitate genus</l>
+                  <l n="3.1.8">Dura vigil coleret nudis confinia telis</l>
+                  <l n="3.1.9"> Inqúe suo fortem servat agone fidem.</l>
+                  <milestone unit="page" n="3'"/>
+                  <l n="3.1.10">Cujus, cum meritis, hìc fortia gesta silebo,</l>
+                  <l n="3.1.11"> Ne pariat longum taedia fortè metrum. 10</l>
+                  <l n="3.1.12">Nam neque materies tales hìc poscit honores,</l>
+                  <l n="3.1.13"> Nec proprias laudes sponte poëta cano.</l>
+                  <l n="3.1.14">At miserum potiùs describere finibus illis</l>
+                  <l n="3.1.15"> Deberem, vitae pro ratione, statum.</l>
+                  <l n="3.1.16">Nam praeter quàm quòd sterilis saxosaqúe tellus 15</l>
+                  <l n="3.1.17"> Perferat hostiles undique cincta minas,</l>
+                  <l n="3.1.18">Et genitor semel est et bis mihi captus uterque</l>
+                  <l n="3.1.19"> Nuper ab Otmanico patruus hoste fuit.</l>
+                  <l n="3.1.20">Hoc Deus, et fortis licet hos industria solvit</l>
+                  <l n="3.1.21"> Carcere Threicio, Threicioqúe jugo: 20</l>
+                  <l n="3.1.22">Non tamen absque Domûs sunt desolamine capti</l>
+                  <l n="3.1.23"> Et natu minimus jam sua lytra tenet.</l>
+                  <l n="3.1.24">Caesaris Augusti stipendia quisque meretur,</l>
+                  <l n="3.1.25"> Sed plures famulos Caesaris inde fovet,</l>
+                  <l n="3.1.26">Quales nempe student genitorum more fideles 25</l>
+                  <l n="3.1.27"> Vivere in obsequiis Caesaris atque mori.</l>
+                  <l n="3.1.28">Sed, quod ego petii, si non satìs usque viderer</l>
+                  <l n="3.1.29"> Congruus officio sufficiensque fore,</l>
+                  <l n="3.1.30">Cùm tamen Aoniae complures artis amantes</l>
+                  <l n="3.1.31"> Collaudent raro facta labore metra: 30</l>
+                  <l n="3.1.32">Ipsa mihi crescit virtus crescentibus annis,</l>
+                  <l n="3.1.33"> Corporis ut vires ingeniique mei.</l>
+                  <l n="3.1.34"> Ad quae Caesareum prestabam carmina munus,</l>
+                  <l n="3.1.35"> Praesto laturus laurea serta <unclear>†tuus†</unclear>.</l>
+                  <milestone unit="page" n="5"/>
+               </div>
+               <div type="div1">
+                  <head>
+                     3. Generoso Domino Georgio Horvat Kiseuics, Inclito Camerae Ungaricae Consiliario
+                  </head>
+                  <l n="3.2.1">Quam mihi misisti, velut optatissima pridem,</l>
+                  <l n="3.2.2"> Grato animo fuerat littera lecta mihi.</l>
+                  <l n="3.2.3">Non propter mea, quae commissa negotia, curae</l>
+                  <l n="3.2.4"> Ignotus cupij nuper inesse tuae </l>
+                  <l n="3.2.5">Notitiam tecum, fateor, sed propter amicam, 5</l>
+                  <l n="3.2.6"> Quâ satìs optabam posse aliquando frui.</l>
+                  <l n="3.2.7">His quoque, cum nequeat pro nunc praesentia votis,</l>
+                  <l n="3.2.8"> Interponantur mutua scripta, precor.</l>
+                  <l n="3.2.9">Littera me rebus verùm doluisse duabus:</l>
+                  <l n="3.2.10"> Quam mihi visa dedit, quod mihi lecta dedit 10</l>
+                  <l n="3.2.11">Visa: ut quod nigra claudatur littera cera,</l>
+                  <l n="3.2.12"> Et quod te aegrotum littera lecta docet.</l>
+                  <l n="3.2.13">Sed pius hoc luctus in prospera gaudia vertet,</l>
+                  <l n="3.2.14"> Aegrotoqúe dabit convaluisse Deus.</l>
+                  <l n="3.2.15">Haesisse in titulo tua me quoqúe littera fecit 15</l>
+                  <l n="3.2.16">[-------]<gap/>
+          </l>
+                  <l n="3.2.17">Nescio quis vobis narrasset nuncius idem,</l>
+                  <l n="3.2.18"> Haec mihi cum novitas est nec adusqúe palam.</l>
+                  <l n="3.2.19">Fors augur meus est Vernis ex floribus Aestas</l>
+                  <l n="3.2.20"> Quòd capiet fructus foca leone docens.</l>
+                  <l n="3.2.21">5' Hos quoque Romanus posset mihi reddere Caesar, 20</l>
+                  <l n="3.2.22"> Tanquam post summos primus in Orbe Deos</l>
+                  <l n="3.2.23">Idque patrocinio vel plus permotus eorum,</l>
+                  <l n="3.2.24"> Contiguos Virtus quos sibi adesse facit.</l>
+                  <l n="3.2.25">Nunc ego, Caesareae quae Majestatis habetur,</l>
+                  <l n="3.2.26"> Prae vestris manibus gratia facta mihi. 25</l>
+                  <l n="3.2.27">Ut possit mitti Szalai curante Jacobo,</l>
+                  <l n="3.2.28"> Per quem danda tibi est Syngrapha nostra prece.</l>
+                  <l n="3.2.29">Et rogo des veniam, sic me tibi fortè molesti</l>
+                  <l n="3.2.30"> Esse, et amicitiam sic onerare novam.</l>
+                  <l n="3.2.31">Est, ut amor, fateor, res immoderata Necesse 30</l>
+                  <l n="3.2.32"> Atque fide crescit consolidatus amor,</l>
+                  <l n="3.2.33" xml:lang="hrv">
+                     Al je zakon stari .. u ovomu gradu
+                  </l>
+                  <l n="3.2.34" xml:lang="hrv">
+                      Da prez pinez stvari .. najmanye nedadu.
+                  </l>
+                  <l n="3.2.35">Vix novitas est ulla mihi quam scribere possem:</l>
+                  <l n="3.2.36"> Nil mihi de Patria, nil aliunde venit. 35</l>
+                  <l n="3.2.37">Nec tempus pro nunc indulget plura notandi,</l>
+                  <l n="3.2.38"> Sed vice post habita plura legenda dabo.</l>
+                  <l n="3.2.39">Hoc tamen addo petens: ut confidenter agendo</l>
+                  <l n="3.2.40"> Viribus utaris per tua vota meis,</l>
+                  <l n="3.2.41">Et reliquis socijs Dominoque Gilani salutem 40</l>
+                  <l n="3.2.42"> Dilectisque meam, dic, precor, atque vale.</l>
+                  <dateline> Viennâ 12. Februarii 1682.</dateline>
+               </div>
+               <milestone unit="page" n="6"/>
+               <div type="div1" rend="P10">
+
+                  
+                     <head>4. Generoso Domino Iacobo Szalay de Szalapach Paulus Ritter Salutem Plurimam Dicit </head>
+                  
+                  <l n="3.3.1">His tibi, Posonium quae discedente remansit</l>
+                  <l n="3.3.2"> Te commendatur syngrapha clausa, notis.</l>
+                  <l n="3.3.3">Accipe de manibus Camerae, quoque ocijùs isthuc</l>
+                  <l n="3.3.4"> Mittere Caesareum munus, Amice, velis.</l>
+                  <l n="3.3.5">Esse salutatum Reverendus Te quoque Rector 5</l>
+                  <l n="3.3.6"> Znika per has cupijt, quas citò scribo. Vale.</l>
+                  <dateline>Viennâ 12. Februarii 1682.</dateline>
+               </div>
+               <milestone unit="page" n="13'"/>
+               <div type="div1" rend="P10">
+                     <head>2. Generoso Domino Francisco Ivannovich de Schitaro, Sacrae Caesareae Regiaeque Maiestatis Croaticarum Compagniarum Regiminis Ceryani primario et Praesidij Pokupski Capitaneo <abbr>etc-</abbr> Paulus Ritter Salutem Plurimam</head> 
+                  
+                  <l n="3.4.1">Accipe de Paulo missam, Francisce, tabellam,</l>
+                  <l n="3.4.2"> Indefecturus quem tibi vovit amor.</l>
+                  <l n="3.4.3">16  Sic etenim tecum cogor discurrere, tecum</l>
+                  <l n="3.4.4"> Cum non possibilis sit modus ore loqui.</l>
+                  <l n="3.4.5">Postquàm Sopronio sibj te Carpona retraxit, 5</l>
+                  <l n="3.4.6"> Est ad te ex nostris unica missa notis. </l>
+                  <l n="3.4.7">At quae, cùm tanto mihj fama nec ulla refertur</l>
+                  <l n="3.4.8"> Tempore, vix oculis est, puto, visa tuis.</l>
+                  <l n="3.4.9">Namque per ignotum ferri commisimus illam:</l>
+                  <l n="3.4.10"> Saepè fit ignoti parvula cura viri.  10</l>
+                  <l n="3.4.11">Ast nec idem timui, quòd non repetisse studebam, </l>
+                  <l n="3.4.12"> Fors aliqua ex multis te sibi nacta foret.</l>
+                  <l n="3.4.13">Impediit sed vota mihi, non parva fatigans</l>
+                  <l n="3.4.14"> Curarum moles hoc juvenile caput.</l>
+                  <l n="3.4.15">Et sic infelix videor quòd nulla mearum 15</l>
+                  <l n="3.4.16"> Effectum possit cura levare bonum. </l>
+                  <l n="3.4.17">Nosti quid petij proprio non suasus amore</l>
+                  <l n="3.4.18"> Id, quia censebam promeruisse satìs.</l>
+                  <l n="3.4.19">Per multos propter Patriae persuasus honorem</l>
+                  <l n="3.4.20"> Expetij et sponso nec tamen usque fruor. 20</l>
+                  <l n="3.4.21">Inde Viennensem iam pridem ascendimus urbem, </l>
+                  <l n="3.4.22"> Procedit lento res tamen usque gradu.</l>
+                  <l n="3.4.23">Hic Regi cecini Regnorum nomine grates,</l>
+                  <l n="3.4.24"> Quod sit ijs finem nacta Dieta bonum,</l>
+                  <l n="3.4.25">16' Ex quibus exemplar trinum tibi mittimus: unum 25</l>
+                  <l n="3.4.26"> Terpataky socio porrige, quaeso, tuo, </l>
+                  <l n="3.4.27">Cui pariter de parte mea deferto salutem,</l>
+                  <l n="3.4.28"> Ut me inter charos connumerare velit.</l>
+                  <l n="3.4.29">Nulla mihi nostris veniunt ex partibus isthuc</l>
+                  <l n="3.4.30"> Quae tibi censerem scribere digna nova, 30</l>
+                  <l n="3.4.31">Praeter quam noviter junior quod Sily Ioannes</l>
+                  <l n="3.4.32"> Mutavit vitam cum meliore suam.</l>
+                  <l n="3.4.33">Rector Alumnorum Niclaus Znika salutat,</l>
+                  <l n="3.4.34"> Iunctus amicitiae qui cupit esse tuae.</l>
+                  <l n="3.4.35">Te brevi cupiens ego Slavna in parte videre 35</l>
+                  <l n="3.4.36"> Charus ut ante tibi, finio metra, vale.</l>
+                  <dateline>Viennae die 1. Februarii 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>5. Generoso Domino Jacobo Szalay de Szalapoch Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.5.1">Non dubito, quin nomen adhuc in mente reserves,</l>
+                  <l n="3.5.2"> Scribentis licet est non tibi nota manus.</l>
+                  <l n="3.5.3">Illius Adriaca qui delegatus ab urbe</l>
+                  <l n="3.5.4"> Sempronium Vates missus Equesque fuit.</l>
+                  <l n="3.5.5">Cui penes Ivanovich, Generose Iacobe,dedisti 5</l>
+                  <l n="3.5.6"> Invento dextram vota in amica manum.</l>
+                  <l n="3.5.7">Idem te brevibus cupiebam visere scriptis</l>
+                  <l n="3.5.8">14 Deque statu proprio dicere scire tuo.</l>
+                  <l n="3.5.9">His etenim novi quod delectentur amicis</l>
+                  <l n="3.5.10"> Et mage quo nova sunt talia fausta, novis. 10</l>
+                  <l n="3.5.11">Hic ego Caesareae semper moror urbe Viennae,</l>
+                  <l n="3.5.12"> A quo Sempronij clausa Diaeta fuit.</l>
+                  <l n="3.5.13">Sum toto (laudes Christo sint) corpore sanus</l>
+                  <l n="3.5.14"> Nec medicam neruus postulat ullus opem.</l>
+                  <l n="3.5.15">Sors desiderijs utinam tam fausta faveret 15</l>
+                  <l n="3.5.16"> Fausta Viennensis quam favet aura mihi;</l>
+                  <l n="3.5.17">Sed lento mea res procedit tramite, lento</l>
+                  <l n="3.5.18"> Justo, qui instandi nescio nempe modo.</l>
+                  <l n="3.5.19">Nuper ad Augustum, Regnorum nomine grates,</l>
+                  <l n="3.5.20"> Quod transacta bono est fine Diaeta, dedi. 20</l>
+                  <l n="3.5.21">Ex quibus exemplar binum tibj mitto, precando:  </l>
+                  <l n="3.5.22"> Parce quod obductum non sit, ut esset opus.</l>
+                  <l n="3.5.23">Omnia Zagrabicis, productam nuper Alumnis,</l>
+                  <l n="3.5.24"> Bucholicam Dominis qui coluêre dedi. </l>
+                  <l n="3.5.25">Gratiaque Augusti, Sibi qua fovet ille fideles 25</l>
+                  <l n="3.5.26"> Est penes has grates sola petita mihi.</l>
+                  <l n="3.5.27">Posonio centum florenos specto levandos</l>
+                  <l n="3.5.28"> Ex Camera, quos Rex cessit ab ante mihi</l>
+                  <l n="3.5.29">14'  Pro quibus ut Cameram faciam restare quietam</l>
+                  <l n="3.5.30"> Spectatur manibus Singrapha scripta meis. 30</l>
+                  <l n="3.5.31">Inclusam praesente tibi commendo tabellâ</l>
+                  <l n="3.5.32"> Atque meo summam nomine, quaeso, leves,</l>
+                  <l n="3.5.33">Quam mihi cum primum tutè transmittere posses.</l>
+                  <l n="3.5.34"> Huc ad Alumnorum mittito claustra, rogo;</l>
+                  <l n="3.5.35">Quod spero, et facies, in quo mihi prima petenti 35</l>
+                  <l n="3.5.36"> Vis nec amicitiae signa negare tuae.</l>
+                  <l n="3.5.37">Atque vices, in quo tibi scis me posse referre,</l>
+                  <l n="3.5.38"> Dic genus; officijs et studiosus ero.</l>
+                  <l n="3.5.39">Canonicus Te Znika cupit salvere, tuosque,</l>
+                  <l n="3.5.40"> Sed penes hoscè suas iungit et ille notas. 40</l>
+                  <l n="3.5.41">Nulla mihi nova sunt, nisì quae de Szilly Ioanne</l>
+                  <l n="3.5.42"> Vitales auras deseruisse ferunt.</l>
+                  <l n="3.5.43">Haec ex Illyrico, sed quae hac versantur in Urbe,</l>
+                  <l n="3.5.44"> Digna notis equidem nescio, nulla noto.</l>
+                  <l n="3.5.45">Sume de propria certum faciendo salute 45</l>
+                  <l n="3.5.46"> Consilijsque tuis exhilarando, vale.</l>
+               </div>
+               <milestone unit="page" n="17"/>
+               <div type="div1" rend="P10">
+                     <head>6. Generoso Domino Georgio Horvath Cisevich, Inclito Camerae Hungaricae Consiliario, Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.6.1">Spero quòd expressam calamo properante tabellam</l>
+                  <l n="3.6.2"> Detulit ad vestras nupera posta manus.</l>
+                  <l n="3.6.3">Per quam pro tanto grates tibi reddo favore,</l>
+                  <l n="3.6.4"> Utque velis talem continuare, precor.</l>
+                  <l n="3.6.5">Quo me prosequeris priùs àc me nôris, Amice, 5</l>
+                  <l n="3.6.6"> Prosequitor notum, quaeso, deinde magìs.</l>
+                  <l n="3.6.7">Namque viri, fateor, simul ùt sapientis, honesti</l>
+                  <l n="3.6.8"> Nil mihi amicitia charius esse potest,</l>
+                  <l n="3.6.9">Cujus ego scriptis laetor, laetatus ùt olim</l>
+                  <l n="3.6.10"> Charus Thysbeo Pyramus ore fuit. 10</l>
+                  <l n="3.6.11">Hinc cùm materiam scribendi praebet amicus,</l>
+                  <l n="3.6.12"> Est ad scribendum dextera prompta mihi.</l>
+                  <l n="3.6.13">Centum inter curas varios interque labores</l>
+                  <l n="3.6.14"> Sit mihi vera licet vix aliquando quies.</l>
+                  <l n="3.6.15">Semper amicitiis animus, qua indulgeat, horam 15</l>
+                  <l n="3.6.16"> Invenit, hocce bono laetus in Orbe fruor.</l>
+                  <l n="3.6.17">Hunc et ego verum puto cum sapiente thesaurum,</l>
+                  <l n="3.6.18"> Qui mihi in immensas connumeratur opes.</l>
+                  <l n="3.6.19">Ut tamen exemplo demonstret gratus amicis</l>
+                  <l n="3.6.20"> Inque pio videar reddere amore vices, 20</l>
+                  <l n="3.6.21">17' Opto, ut sincerè mecum demandet amicus:</l>
+                  <l n="3.6.22"> Ad sua meque sibi vota jubendo probet.</l>
+                  <l n="3.6.23">Quod, peto, tu facias, ut, quis sim, noscere possis:</l>
+                  <l n="3.6.24"> Candida repperies pectora, crede mihi.</l>
+                  <l n="3.6.25">Facturum id posthac te spero, tuosque sodales 25</l>
+                  <l n="3.6.26"> Parte salutabis, cum Szalajoque, mea.</l>
+                  <l n="3.6.27">Ad quem, danda tibi, [-------------------]</l>
+                  <l n="3.6.28"> Est mea cum reliquis syngrapha missa notis.</l>
+                  <l n="3.6.29">Quae si non placeat, sed quid spectetur in illa,</l>
+                  <l n="3.6.30"> Indica, eo mittam, quo cupis ipse modo. 30</l>
+                  <l n="3.6.31">[------]</l>
+                  <l n="3.6.32">25</l>
+               </div>
+               <div type="div1" rend="P10">
+                     <head>7. Generoso Domino Iacobo Szalay de Szalapocs Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.7.1">Percepi tarde nuper sub nocte tabellam,</l>
+                  <l n="3.7.2"> Cum summa in pleno, Vir Generose, tuam,</l>
+                  <l n="3.7.3">Ob quod non poteram brevibus rescribere metris:</l>
+                  <l n="3.7.4"> Impediit Soli sacra deinde Dies.</l>
+                  <l n="3.7.5">Iam quoque vix superest inter molimina centum 5</l>
+                  <l n="3.7.6"> Hora, tuis possem qua satis esse notis.</l>
+                  <l n="3.7.7">Quid sit id, et tantum quod tempore molior isto,</l>
+                  <l n="3.7.8"> Post aliquot poteris forte videre dies.</l>
+                  <l n="3.7.9">Sed breviter magnas volui tibj reddere grates,</l>
+                  <l n="3.7.10"> Proque favore tuo proque labore pio,    10</l>
+                  <l n="3.7.11">Optans ut possim (pro quo conabor) eosdem</l>
+                  <l n="3.7.12"> Protinus officiis promeruisse meis.</l>
+                  <l n="3.7.13">Sperabam sua quod mihi scripta Georgius Horvat</l>
+                  <l n="3.7.14"> Redderet ad missas sole priore notas.</l>
+                  <l n="3.7.15">Attamen accepi nullas, timuique molestus 15</l>
+                  <l n="3.7.16"> Illi ne tali carmine fortè forem.</l>
+                  <l n="3.7.17">Si quid erit, pulchris excuses obsecro verbis,</l>
+                  <l n="3.7.18"> Dant mihi difficiles verba soluta modos.</l>
+                  <l n="3.7.19">Humanèque illum nostra cum voce salutes,</l>
+                  <l n="3.7.20"> Cui pariter gratum munera gratus ago. 20</l>
+                  <l n="3.7.21">25' In qua parte vices sibi me quoque reddere posse</l>
+                  <l n="3.7.22"> Sciverit ad votum mandet ut ille suum</l>
+                  <l n="3.7.23">Sitque salutando reliquos peramanter Amicos,</l>
+                  <l n="3.7.24"> Litterulae parcens in brevitate, vale.</l>
+                  <dateline>Viennâ 19. Martii 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>8. Generoso Domino Francisco Ivanovich De Schitaro, liberarum Compagniarum <supplied>Kerian[i]</supplied> Croaticarum Primario et Praesidij Pokupsko Capitaneo Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.8.1">Percepi, Generose, tuam, Francisce, tabellam,</l>
+                  <l n="3.8.2"> Qua mihi vix aliquid charius esse potest.</l>
+                  <l n="3.8.3">Non tantum quod tersa stylo foret illa Latino,</l>
+                  <l n="3.8.4"> Verum scripta tua quod fuit illa manu.</l>
+                  <l n="3.8.5">Sed quòd sic tardè responsum profero, parce: 5</l>
+                  <l n="3.8.6"> Formo quod assuetis dissimilesque notas.</l>
+                  <l n="3.8.7">Me gravis oppressit nuperno tempore morbus,</l>
+                  <l n="3.8.8"> A quo me eripuit gratia magna Dei.</l>
+                  <l n="3.8.9">Octo dies iacui totidem perpessus agones,</l>
+                  <l n="3.8.10"> Cùm mea lethalis concutit ossa febris. 10</l>
+                  <l n="3.8.11">Febris in aethneos conversa deinde calores</l>
+                  <l n="3.8.12"> Non me praesentem passa manere mihi est,</l>
+                  <l n="3.8.13">26  Ex manibus pedibusque homines prodire videbam,</l>
+                  <l n="3.8.14"> Inque meo multos adiacuisse toro,</l>
+                  <l n="3.8.15">Mutua continuo cum queis certamina gessi, 15</l>
+                  <l n="3.8.16"> Nulla fuit noctu nulla diuque quies.</l>
+                  <l n="3.8.17">Sed multi potus, unguenta, et quatuor apertae</l>
+                  <l n="3.8.18"> Venae pro vitae spem tribuêre gradu.</l>
+                  <l n="3.8.19">Ut decima tandem, medico vigilante fatebar </l>
+                  <l n="3.8.20"> Incoepi praesens iam magis esse mihi, 20</l>
+                  <l n="3.8.21">Sic etiam melius coepi sentire deinde,</l>
+                  <l n="3.8.22"> Coepit ubj sensim linquere membra dolor.</l>
+                  <l n="3.8.23">Accidit hoc ipso Ioachimi Sole Beati,</l>
+                  <l n="3.8.24"> Qui post Iosephi prius inire solet </l>
+                  <l n="3.8.25">De factoque miser tristem custodio lectum  25</l>
+                  <l n="3.8.26"> Dum nequeo infirmo stare nec ire pede.</l>
+                  <l n="3.8.27">Hoc non ante dedit tibi rescripsisse, vacillat</l>
+                  <l n="3.8.28"> Inde etiam calamo debilitata manus.</l>
+                  <l n="3.8.29">Sideris amitto pulcherrima tempora verni,</l>
+                  <l n="3.8.30"> Nec possum Musis invigilare meis.  30</l>
+                  <l n="3.8.31">Sed mihi nec Musae (fateor) nec pulcher Apollo</l>
+                  <l n="3.8.32"> Ut condam sano complacuêre placent,</l>
+                  <l n="3.8.33">26'  Quarum in tam grandi morbo, Vitaeque periclo,</l>
+                  <l n="3.8.34"> Proh nullam lassus sensit alumnus opem,</l>
+                  <l n="3.8.35">Attamen est animus reparatis viribus illas,  35</l>
+                  <l n="3.8.36"> Visere Pierijs Pegaseisque jugis.</l>
+                  <l n="3.8.37">Nec Velebichiades, Slaunae sacra numina gentis,</l>
+                  <l n="3.8.38"> Vati (credito) erunt ultima cura suo.</l>
+                  <l n="3.8.39">Sed quoniam nimium nimium sum debilis aeger,</l>
+                  <l n="3.8.40"> Est primum â Superis sollicitanda salus.  40</l>
+                  <l n="3.8.41">Fient ista dein. Sed ut ad tua scripta revertar,</l>
+                  <l n="3.8.42"> Responsus brevibus dextra dat aegra notis.</l>
+                  <l n="3.8.43">Arguis, imprimis, miratus in urbe moratum</l>
+                  <l n="3.8.44"> Oblitumque putans immemoremque Tui.</l>
+                  <l n="3.8.45">Erras et peccas, istud si credis, Amice:  45</l>
+                  <l n="3.8.46"> Nec sum, nec possum non memor esse tui.</l>
+                  <l n="3.8.47">Saepè tibi quod non scripsi, quâ parte moraris</l>
+                  <l n="3.8.48"> Pars ignota mihi, Numine, triste fuit.</l>
+                  <l n="3.8.49">Ad primas quoniam, quae te petiêre Capornae,  </l>
+                  <l n="3.8.50"> Est tua nulla mihi littera missa notas.  50</l>
+                  <l n="3.8.51">In Februoque aliam scripsi clausique tabellam,</l>
+                  <l n="3.8.52"> Isthic occlusam quam modò mitto tibi,</l>
+                  <l n="3.8.53">Haec prius ad postam quod non commissa fuisset,</l>
+                  <l n="3.8.54"> Venturum dixit Te Salay esse brevi, </l>
+                  <l n="3.8.55">27 Quod laeto spectavi animo scriptamque tabellam 55</l>
+                  <l n="3.8.56"> Dispositos mitti detinuique libros.</l>
+                  <l n="3.8.57">Oblitum, Francisce,tui sic credere noli,</l>
+                  <l n="3.8.58"> Verum nec dubia concipe mente, Tuum,</l>
+                  <l n="3.8.59">Nam quia te versus nostras extinguere flammas</l>
+                  <l n="3.8.60"> Non possent Geticae Caucaseaeque nives, 60</l>
+                  <l n="3.8.61">Hoc quia sincerum iuro sine labeque pectus</l>
+                  <l n="3.8.62"> Osque tibi perfert, indubiamque fidem.</l>
+                  <l n="3.8.63">Hic quid succedat poscis rescire notatu</l>
+                  <l n="3.8.64"> Si quae digna forent, iam tibi scripta forent. </l>
+                  <l n="3.8.65">Praeterquam Belli quod terret fama futuri, 65</l>
+                  <l n="3.8.66"> Quo Thrax Christiacas fertur adire plagas</l>
+                  <l n="3.8.67">Namque et Caesareus Legatus nuper ad illum </l>
+                  <l n="3.8.68"> Huc per Dalmatiam fecerat ire notas, </l>
+                  <l n="3.8.69">Quae quid contineant non possum scire minores,</l>
+                  <l n="3.8.70"> Attamen haud aliquid credimus esse boni.  70</l>
+                  <l n="3.8.71">Dicitur et Venetus dicto adhaesisse Tyranno,</l>
+                  <l n="3.8.72"> Qui prohibet nostris cuncta marina plagis.</l>
+                  <l n="3.8.73">Nonâ in Loxenburg ivit cum conjuge Caesar</l>
+                  <l n="3.8.74"> Augusta Augustus, Veris amore suum</l>
+                  <l n="3.8.75">Conventus Regni nonâ celebratus et isto  75</l>
+                  <l n="3.8.76"> Scribitur in nostris mense fuisse plagis.</l>
+                  <l n="3.8.77">27'  Credo quod audisti pridem de morte Berislau,</l>
+                  <l n="3.8.78"> Cuius in hac Sophiae Filius urbe studet.</l>
+                  <l n="3.8.79">Praeterea Szandrich sacrae qui Canonicatu</l>
+                  <l n="3.8.80"> Ecclesiae functus Zagrabiensis erat, 80</l>
+                  <l n="3.8.81">In cujus Stridich successit Canonicatum,</l>
+                  <l n="3.8.82"> Archidiaconium Taska Paunus habet.</l>
+                  <l n="3.8.83">Sole senex Vernich decessit Paschatis ipso,</l>
+                  <l n="3.8.84"> Quâ Christus surgit decidit ille die. </l>
+                  <l n="3.8.85">Druskoczi noviter, juveni consorte relicta, 85</l>
+                  <l n="3.8.86"> Migravit mundum destituendo senex;</l>
+                  <l n="3.8.87">Jambrekovich parochus Vidoviczj mortuus, alter</l>
+                  <l n="3.8.88"> In Vocsha Parochus dicitur esse Zidich.</l>
+                  <l n="3.8.89">Quos velutj plerumque senes non cerno dolendos,</l>
+                  <l n="3.8.90"> Illis sed requiem donet in aeva Deus.  90</l>
+                  <l n="3.8.91">Haec sunt Illyricis quae transcribuntur ab oris,</l>
+                  <l n="3.8.92"> Nec pro nunc dignè plura notanda scio.</l>
+                  <l n="3.8.93">Rerum, composui quam terno hic mense moratus,</l>
+                  <l n="3.8.94"> Mittitur hìc Latiis pars tibi pressa typis. </l>
+                  <l n="3.8.95">Plura darem luci, sed avaros cerno patronos 95</l>
+                  <l n="3.8.96"> Aereque bursa mihi jam spoliata iacet.</l>
+                  <l n="3.8.97">Illyrico textum versu desidero Librum</l>
+                  <l n="3.8.98"> Perspexisse tuum; non, nisì quod sit opus?</l>
+                  <l n="3.8.99">28  Et cupio ut mittas, sed Slavnas ibit ad oras</l>
+                  <l n="3.8.100"> Mecum: nam brevis est hic mihi habenda mora.  100</l>
+                  <l n="3.8.101">Quod meliùs fiet: nam res ea pressa Labaci</l>
+                  <l n="3.8.102"> Ex facili in Schitar vecta venire potest.</l>
+                  <l n="3.8.103">Cura mihi fiet ligere et servare poëmma,</l>
+                  <l n="3.8.104"> Donec in Illyricas veneris ipse plagas. </l>
+                  <l n="3.8.105">Adjunxit nostris, ut te veneretur amicè,  105</l>
+                  <l n="3.8.106"> Cum multis proprias Znika salute notas.</l>
+                  <dateline>Raptissimè Vienna 12. Aprilis 1682. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>9. Ad Amicum Natalizantem</head>
+                  
+                  <l n="3.9.1">Hanc felix celebres, et post hanc pluribus annis,</l>
+                  <l n="3.9.2"> Maxime, majori functus honore diem.</l>
+                  <l n="3.9.3">Cujus festa colis Patroni, facta sequaris:</l>
+                  <l n="3.9.4"> Cùmque habeas nomen Maximi, et omen habe. </l>
+               </div>
+               <div type="div1" rend="P10">
+                     <head>
+                        <note>29 </note>10. Ad eundem</head>
+                  <div>
+                  <l n="3.10.1.1">Ad me bis nonâ, quam scribis, Amice, Tabellam</l>
+                  <l n="3.10.1.2"> Chara sat hesterno tradita Sole mihi est.</l>
+                  <l n="3.10.1.3">Cùm qua percepi pulchrum te authore Libellum:</l>
+                  <l n="3.10.1.4"> Et modicum, lecta qui mihi fronte placet.</l>
+                  <l n="3.10.1.5">Faustas ille mea cura prodibit in auras: 5</l>
+                  <l n="3.10.1.6"> Ut tibj et ut populo complacuisse queat.</l>
+                  <l n="3.10.1.7">Nec tua nec Regni deerunt insignia Trini,</l>
+                  <l n="3.10.1.8"> Omni perfectus namque erit ille modo.</l>
+                  <l n="3.10.1.9">
+                     <unclear>[...]<gap/>ino</unclear> cum primùm partes accessero Slaunas,</l>
+                  <l n="3.10.1.10"> Est mihi prima tuus cura futura liber. 10</l>
+                  <l n="3.10.1.11">Illam nupernè tibi quam transmissimus isthinc,</l>
+                  <l n="3.10.1.12"> Est propera infirma littera scripta manu.</l>
+                  <l n="3.10.1.13">29' Imo etiam (quoniam postae fuit hora movendae)</l>
+                  <l n="3.10.1.14"> Illa fuit manibus littera rapta meis.</l>
+                  <l n="3.10.1.15">Ex hinc non scripsi quaevis, quae scire petebas, 15</l>
+                  <l n="3.10.1.16"> Fine etiam nequij claudere scripta suo.</l>
+                  <l n="3.10.1.17">Parces, non dubito, vitium excusabis et ipse:</l>
+                  <l n="3.10.1.18"> Aeger et in toto corpore lassus eram.</l>
+                  <l n="3.10.1.19">Ad quam, nunc primum, breviter respondeo <supplied>pri[mam]</supplied>,</l>
+                  <l n="3.10.1.20"> Temporis hoc brevitas poscit et aegra <supplied>manu[s.]</supplied> 20</l>
+                  <l n="3.10.1.21">Scire cupis cur hocce moror faciamque <supplied>Vienn[ae]</supplied>:</l>
+                  <l n="3.10.1.22"> Ut fateor, frustra, perficiendo nihil,</l>
+                  <l n="3.10.1.23">Nam neque promissis pridem minus insto petitis,</l>
+                  <l n="3.10.1.24"> Daphnea sic Laurus, sicque cathena <supplied>late[t]</supplied>.</l>
+                  <l n="3.10.1.25">Illa quidem promissa mihi est tituloque tabellae 25</l>
+                  <l n="3.10.1.26"> Praecincti lauro iam mihi saepè <supplied>ferun[t]</supplied>.</l>
+                  <l n="3.10.1.27">Alterius nequii successum scire petitae,</l>
+                  <l n="3.10.1.28"> Impediit morbi perniciosa lues.</l>
+                  <l n="3.10.1.29">Nec mihi erat per quem potuissem inquirere <supplied>men[tem]</supplied>
+                  </l>
+                  <l n="3.10.1.30"> Caesaris, illa licet fortè benigna fuit. 30</l>
+                  <l n="3.10.1.31">Sic ego iam credo nihil infelicius esse,</l>
+                  <l n="3.10.1.32"> Quam morbo ignotos inter, Amice, premi.</l>
+                  <l n="3.10.1.33">30 Quis melius uellet vel quidnam ardentius optet</l>
+                  <l n="3.10.1.34"> Dilectus fratri quam dare frater opem.</l>
+                  <l n="3.10.1.35">Quis potius quam fida viro vult sponsa salutem, 35</l>
+                  <l n="3.10.1.36"> Nulla licet nostrum noverit usque thorum.</l>
+                  <l n="3.10.1.37">Maxima prae cunctis pariter censetur amicis</l>
+                  <l n="3.10.1.38"> Fratri (quod late constet) amica soror</l>
+                  <l n="3.10.1.39">Vicinusque bonus morte est tibi saepè paratus:</l>
+                  <l n="3.10.1.40"> Dulcis ô in Patria Vitaque morsque levis! 40</l>
+                  <l n="3.10.1.41">Perdulcis Patria est, et adhuc est dulcior ipsa,</l>
+                  <l n="3.10.1.42"> Quae nos ventre tulit qua genuitque parens.</l>
+                  <l n="3.10.1.43">Vexatum indolui, Francisce, fuisse catharri</l>
+                  <l n="3.10.1.44"> Uda paludoso quem parit aura loco.</l>
+                  <l n="3.10.1.45">Exhilarat sed me pulso reditura dolore, 45</l>
+                  <l n="3.10.1.46"> Quam tibi confirment astra benigna salus.</l>
+                  <l n="3.10.1.47">Mirorque Hungaricis ita quid te oblectet in oris</l>
+                  <l n="3.10.1.48"> Patria non posset quod tibi dare tua.</l>
+                  <l n="3.10.1.49">Ut sic ingenium Patriae praenobile fortem </l>
+                  <l n="3.10.1.50"> Et Patriae noles suppeditare manum: 50</l>
+                  <l n="3.10.1.51">Quid tibi Slauna negat, negat aut quid terra Croata</l>
+                  <l n="3.10.1.52"> Promeritus multum es satque in utraque potes.</l>
+                  <l n="3.10.1.53">Quam tua clementi gaudet Scataria Coelo,</l>
+                  <l n="3.10.1.54"> Auraque frugiferum perstat amoena Rauen,</l>
+                  <l n="3.10.1.55">30' Csanyevoque et reliquae, tibi quos fortuna colonis 55</l>
+                  <l n="3.10.1.56"> Sat dites voluit grata subesse domos,</l>
+                  <l n="3.10.1.57">Nonne satis placido Coeli terraeque favore</l>
+                  <l n="3.10.1.58"> Vicinasque penes respicit aura plagas?</l>
+                  <l n="3.10.1.59">Nonne Varasdino, Zagrabaeque salubrior urbe,</l>
+                  <l n="3.10.1.60"> Est et contiguis aura benigna locis? 60</l>
+                  <l n="3.10.1.61">Ast ea cur doceo te, quae notissima longè</l>
+                  <l n="3.10.1.62"> Sunt tibi, suntque magìs culta docente Tibi?</l>
+                  <l n="3.10.1.63">Sic satìs ipse bonum tibi persuadere, malumque</l>
+                  <l n="3.10.1.64"> Disuadere: sapis quid iuvat, atque nocet.</l>
+                  <l n="3.10.1.65">Vtere iudicio propriamque sequare voluntam, 65</l>
+                  <l n="3.10.1.66"> Idem, quod quis amat, credit et esse bonum.</l>
+                  <l n="3.10.1.67">Sic ego, qui cupio tecum convivere semper,</l>
+                  <l n="3.10.1.68"> Ut possem, vellem semper, amice, loqui.</l>
+                  <l n="3.10.1.69">Sed ne te faciant juvenilia metra molestum,</l>
+                  <l n="3.10.1.70"> Dilectum proprius quem tibi fecit amor, 70</l>
+                  <l n="3.10.1.71">Ovum plumatone vel documenta parenti</l>
+                  <l n="3.10.1.72"> Dicas [---] velle modumque dare,</l>
+                  <l n="3.10.1.73">Carmina praesenti levem, post pauca tabellae</l>
+                  <l n="3.10.1.74"> Ponam, hoc et tempus dextraque lassa petit.</l>
+                  <l n="3.10.1.75">De novitate penes fieri quia certior optas, 75</l>
+                  <l n="3.10.1.76"> Quae fit in hisce locis Illyricisque plagis.</l>
+                  <l n="3.10.1.77">31 Taederet minime, credas, describere quasvis</l>
+                  <l n="3.10.1.78"> Et sic infirmam difficilemque manum,</l>
+                  <l n="3.10.1.79">Sed nihil Illyricis ad nos defertur ab oris,</l>
+                  <l n="3.10.1.80"> Scriptaque quae veniunt, nil novi talis habent. 80</l>
+                  <l n="3.10.1.81">Hoc verum, Zagraba scripserunt nuper ab urbe,</l>
+                  <l n="3.10.1.82"> Per tres quod fuerit sessio facta dies.</l>
+                  <l n="3.10.1.83">Et pro legato Pucz elegêre Ioannem,</l>
+                  <l n="3.10.1.84"> Qui propria haud multum curat abesse domo.</l>
+                  <l n="3.10.1.85">Hic quoque contingi njhil audio: non eo multùm, 85</l>
+                  <l n="3.10.1.86"> Judicio et medio praecipiente foras.</l>
+                  <l n="3.10.1.87">Sed Veneti quod (cum bis quina et nona nitente)</l>
+                  <l n="3.10.1.88"> Ignis legati motus in aede fuit.</l>
+                  <l n="3.10.1.89">Ipsa, aliaeque decem propè quas vicinia ferit</l>
+                  <l n="3.10.1.90"> Ille, erat in tristem sacrificata rogum. 90</l>
+                  <l n="3.10.1.91">In quatuorque locis etiam tunc flamma suborta,</l>
+                  <l n="3.10.1.92"> Sed properè lymphis annihilata fuit,</l>
+                  <l n="3.10.1.93">Altera non; nimirum rapido perterruit igne</l>
+                  <l n="3.10.1.94"> Ortus erat bina Mulciber aede <unclear>†diae†</unclear>,</l>
+                  <l n="3.10.1.95">Sed citò praeventum liquida fuit ignibus undâ  95</l>
+                  <l n="3.10.1.96"> Quid velit hocce sibi, noverit ipse Deus.</l>
+                  <l n="3.10.1.97">Martinus Kostis non hinc discessit, et inde</l>
+                  <l n="3.10.1.98"> Nulla aliquem possent exhilarare nova.</l>
+                  <l n="3.10.1.99">31'  Sed plures paci contraria multa loquuntur,</l>
+                  <l n="3.10.1.100"> Non mihi sed, quidnam scribitur indè patet.  100</l>
+                  <l n="3.10.1.101">Hinc nec rumores prodar transcribere vanos,</l>
+                  <l n="3.10.1.102"> (Scis meliùs forsque haec omnia) scribo nihil.</l>
+                  <l n="3.10.1.103">Cum multa inclusam mittit tibi Znika salutem,</l>
+                  <l n="3.10.1.104"> Pro quali secum saepè phalerna bibo.</l>
+                  <l n="3.10.1.105">Res nequit esse magìs tua commendata Poëtae: 105</l>
+                  <l n="3.10.1.106"> Propitio, accipiet quod petis omne, Deo.</l>
+                  <l n="3.10.1.107">Qui salvum incolumenque meum te servet Amicum,</l>
+                  <l n="3.10.1.108"> Tuque tuo serves nos in amore. Vale.</l>
+               </div>
+               <div type="div2" rend="P49">
+                  <head>P. S. </head>
+                  <l n="3.10.2.1">Parcito sic maculis vitiatae quaeso tabellae</l>
+                  <l n="3.10.2.2"> Est citò et infirma nam quia scripta <supplied>ma[nu]</supplied>. 110</l>
+                  <dateline>Viennâ 23. Aprilis 1682. </dateline>
+               </div>
+               </div>
+               <div type="div1">
+                     <head>11. Magnifico Domino Ioanni Carlo Portner ab Höffleni, Sacrae Caesareae Regiaeque Maiestatis Supremo Vice-Capitaneo Segniae, Paulus Ritter Salutem Plurimam Dicit </head>
+                  
+                  <l n="3.11.1">Desine mirari tanto cur tempore nullis</l>
+                  <l n="3.11.2"> Inviset, Portner, te mea Musa notis.</l>
+                  <l n="3.11.3">Causae id fecerunt multae, multique labores,</l>
+                  <l n="3.11.4"> Propositum toties id quoque fecit iter.</l>
+                  <l n="3.11.5">Sed nec tam tacitus fueram: misisse recordor 5</l>
+                  <l n="3.11.6"> Nam plus quam vicibus me tibi scripta tribus.</l>
+                  <l n="3.11.7">32  Saepè etiam volui cum tempore scribere nacto,</l>
+                  <l n="3.11.8"> Materies scriptis nulla reperta fuit.</l>
+                  <l n="3.11.9">At postquam Hungaricas me Segnia misit ad oras,</l>
+                  <l n="3.11.10"> Non visa est oculis littera vestra meis. 10</l>
+                  <l n="3.11.11">Quod patiendo tuli, velut et nunc perfero: vellem</l>
+                  <l n="3.11.12"> Cùm praesentè (brevi tempore) posse loqui.</l>
+                  <l n="3.11.13">Hoc etiam spero: sic qualia vidimus isthic,</l>
+                  <l n="3.11.14"> Atque per Hungariam, dissimulabo notis.</l>
+                  <l n="3.11.15">Tunc totum meliùs patulo narrabitur ore, 15</l>
+                  <l n="3.11.16"> Cum mea praesenti Te mihi Segna dabit.</l>
+                  <l n="3.11.17">Mitto exercitij tibi pauca pöemata nostri,</l>
+                  <l n="3.11.18"> Quae, tibi cum venient otia, fortè leges.</l>
+                  <l n="3.11.19">Scriboque nulla penes properantem novalia pennâ,</l>
+                  <l n="3.11.20"> Nam novus sic Abbas credo quod uber erit. 20</l>
+                  <l n="3.11.21">Me tua prima sibi commendet gratia, quaeso, </l>
+                  <l n="3.11.22"> Cuj ego commendo me prior ille. Vale.</l>
+                  <dateline>Viennâ 24. Aprilis 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>12. Generoso Domino Stephano Jellacsich de Buzin, Vice-Comiti Comitatûs Zagrabiensis, Comiti Abbatiali de Topusska, Sacrae Caesareae Regiaeque Maiestatis Praesidii Szredicski Capitaneo</head>
+                  <div>
+                  <l n="3.12.1.1">Per Galÿuf nuper post scriptas saepè soluto,</l>
+                  <l n="3.12.1.2"> Una data est ad te littera nostra stylo.</l>
+                  <l n="3.12.1.3">32' Et minimè dubito quòd non perceperis illam,</l>
+                  <l n="3.12.1.4"> Bani namque notis associata fuit.</l>
+                  <l n="3.12.1.5">Hanc operum vates penes exemplare meorum 5</l>
+                  <l n="3.12.1.6"> Hic quae composui versificando, dedi.</l>
+                  <l n="3.12.1.7">Ast ego iam quinto (ne plus) desidero mense</l>
+                  <l n="3.12.1.8"> A te saltem aliquam posse videre notam.</l>
+                  <l n="3.12.1.9">Non ita sed felix potui spectando fuisse:</l>
+                  <l n="3.12.1.10"> Scripta tua posset charta venire manu. 10</l>
+                  <l n="3.12.1.11">Quamlibet ad postam licet est spectato, nec illa</l>
+                  <l n="3.12.1.12"> Verum visa mihi est quae mihi scripta fuit.</l>
+                  <l n="3.12.1.13">Post breve sed praesens cupio te cernere tempus,</l>
+                  <l n="3.12.1.14"> Sors ubi verba dabit plurima posse loqui.</l>
+                  <l n="3.12.1.15">Nam nihil expecto, nisi queis hic debita solvam: 15</l>
+                  <l n="3.12.1.16"> Nummos, et tantum quos sibi poscit iter.</l>
+                  <l n="3.12.1.17">Rescivisse tamen cupiebam totus anhellans</l>
+                  <l n="3.12.1.18"> Quae mihi rara tui littera verba ferat.</l>
+                  <l n="3.12.1.19">Et doleo; reliquis fuit infelicior illa,</l>
+                  <l n="3.12.1.20"> Huc quae ex Illyrico pertinuêre solo. 20</l>
+                  <l n="3.12.1.21">Sed cum non aliter fieri patientia possit,</l>
+                  <l n="3.12.1.22"> Saepè alit et fallit spes ita, sorsque vaga.</l>
+                  <l n="3.12.1.23">Det Deus ut salvos cito teque Tuosque viderem,</l>
+                  <l n="3.12.1.24"> Transiret totus spe meliore dolor.</l>
+                  <l n="3.12.1.25">33 Quòd dabit Omnipotens: et me post pauca venire 25</l>
+                  <l n="3.12.1.26"> Tempora, et Incolumem te reperire tuos.</l>
+                  <l n="3.12.1.27">Interea cunctos benedicat ab axe benignus</l>
+                  <l n="3.12.1.28"> Nos Deus, his calamo deficiente. Vale.</l>
+               </div>
+               <div type="div2" rend="P49">
+                  <head>P. S.</head>
+                  <l n="3.12.2.1">Haec penes exemplar bis trinum iungo metrorum,</l>
+                  <l n="3.12.2.2"> Quae noviter cecini tempore dante metra.  30</l>
+                  <l n="3.12.2.3">Ex quibus Illyrici veniat Proregis in aulam:</l>
+                  <l n="3.12.2.4"> Unum ad Proregis vel magis opto manus.</l>
+                  <l n="3.12.2.5">Cujus in heroum me commendare favorem</l>
+                  <l n="3.12.2.6"> Eloquii cupio dexteritate tui. </l>
+                  <dateline>Viennâ 26. Aprilis 1682.</dateline>
+               </div>
+               <div type="div2" rend="P49">
+                  <head>P. S. aliud</head>
+                  <l n="3.12.3.1">Hanc mora detinuit portantis longa tabellam, 35</l>
+                  <l n="3.12.3.2"> Unde et scripta diu jam tibi tarda venit.</l>
+                  <l n="3.12.3.3">Communis sonat hìc Patriarchae fama recentis,</l>
+                  <l n="3.12.3.4"> Quem proprium statuit Gallica terra sibi.</l>
+                  <l n="3.12.3.5">Haeresis ò utinam nova ne nascatur ab inde, </l>
+                  <l n="3.12.3.6"> Peste nova justos inficiatque greges!  40</l>
+                  <dateline>Viennâ 7. Maij</dateline>
+               </div>
+               </div>
+               <milestone unit="page" n="33'"/>
+               <div type="div1" rend="P10">
+                     <head>13. Generoso Domino Francisco Ivannovich de Schitaro Paulus Ritter Salutem Plurimam Dicit </head>
+                  
+                  <l n="3.13.1">Quod mea tarda nimis tibi nuper epistola venit,</l>
+                  <l n="3.13.2"> Arguito Tompam, clam quia fecit iter.</l>
+                  <l n="3.13.3">Illum spectabat qui se promiserat ultro </l>
+                  <l n="3.13.4"> Ante abitum certò nos reperire suum.</l>
+                  <l n="3.13.5">Tutius has ipso portante venire putavi, 5</l>
+                  <l n="3.13.6"> Nec volui postae commoditate frui.</l>
+                  <l n="3.13.7">Sed tuus â tanto spectatus tempore Tompa,</l>
+                  <l n="3.13.8"> Nec mihi nec verbis sat facit usque suis</l>
+                  <l n="3.13.9">Praeteritóque dje solis commitere tandem</l>
+                  <l n="3.13.10"> Illam Kostisio deinde coactus eram, 10</l>
+                  <l n="3.13.11">Ad quam responsum de te spectabo cupitum:</l>
+                  <l n="3.13.12"> Quo citiùs fuerit gratius illud erit.</l>
+                  <l n="3.13.13">Numquam mansurum me isthic hucusque putabam,</l>
+                  <l n="3.13.14"> Contra animum juvenis, contra ubj vota <supplied>mor[or]</supplied>,</l>
+                  <l n="3.13.15">Delicijs locus iste suis licet attrahat omnes; 15</l>
+                  <l n="3.13.16"> Ast oculis fecit jam satis ille meis.</l>
+                  <l n="3.13.17">Vellem frugiferos iam nunc equitare per <supplied>agr[os]</supplied>,</l>
+                  <l n="3.13.18"> Quos Dravo ad Savum Slavnia nostra colit.</l>
+                  <l n="3.13.19">Vellem frondosis venando incedere sylvis,</l>
+                  <l n="3.13.20"> Quas sibj pro patria Nympha Croata tene[t]. 20</l>
+                  <l n="3.13.21">Et tandem Adriacum recreari nave per aequor,</l>
+                  <l n="3.13.22"> Dalmaticos vellem iam revidere sinus.</l>
+               </div>
+               <div type="div1" rend="P10">
+                  <head>34 Specto tamen donec mittat mihi Segnia sumptus,</head>
+                  <l n="3.14.1"> Ad mare tam longum quos sibi poscit iter,</l>
+                  <l n="3.14.2">Ex quibus hic tanto rata tempore debita solvam, 25 </l>
+                  <l n="3.14.3"> Quod potuit, pridem namque crumena dedit.</l>
+                  <l n="3.14.4">Partibus ex nostris pro nunc nova nulla feruntur.</l>
+                  <l n="3.14.5"> Fors aliquid, cum Pucz venerit, ille feret.</l>
+                  <l n="3.14.6">Tunc, quidcumque feret, tibi per mea scripta patebit.</l>
+                  <l n="3.14.7"> Interea felix incolumisque vale. 30</l>
+                  <dateline>Viennâ 7. Maij 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>14. Admodum Reverendo Domino Stephano Selischevich, Archidiacono Beksin et Canonico Zagrabiensi Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.15.1">Tandèm non passus notulis quejscunque Patronum</l>
+                  <l n="3.15.2"> Te meus est animus praeteriisse suum.</l>
+                  <l n="3.15.3">Sed pauco multas rupit pro tempore curas,</l>
+                  <l n="3.15.4"> Ut, Tibi cùm nequeat dicere, scribat: "Ave".</l>
+                  <l n="3.15.5">Quod Tibi, candidulo depromptum pectore, luce 5</l>
+                  <l n="3.15.6"> Qualibet addictus dicere vellet Eques,</l>
+                  <l n="3.15.7">Dum tibi mille bonas, faustas, longasque salutes,</l>
+                  <l n="3.15.8"> Semper ab aetheriis opto precorque Diis.</l>
+                  <l n="3.15.9">Nec Tibi deficient hunc indulgere favorem,</l>
+                  <l n="3.15.10"> Per Tua facta quibus votaque nostra places. 10</l>
+                  <l n="3.15.11">34'  Atque hucusque meas legisses fortè salutes,</l>
+                  <l n="3.15.12"> Legissesque mea carmina scripta manu,</l>
+                  <l n="3.15.13">Ni ferus ad tristem me deduxisset agonem</l>
+                  <l n="3.15.14"> Morbus, <expan>et</expan> oppressum cura labore caput.</l>
+                  <l n="3.15.15">Ast quoties ad Te Rectoris epistola scripta est, 15</l>
+                  <l n="3.15.16"> Parte mea, petii, qui tibi scribat: "Ave".</l>
+                  <l n="3.15.17">Hoc quoque praesenti pono pro fine tabellae.</l>
+                  <l n="3.15.18">[----------]</l>
+                  <dateline> Viennâ 8. Maij 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>15. Generoso Domino Francisco Spolarich, Tricesimae Nedelicensis Supremo Contrascribae, Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.16.1">Obvia Zagrabiae cupiens Tibi litera Vatis</l>
+                  <l n="3.16.2"> Post "Vale" missa recens dicere quaerit: "Ave".</l>
+                  <l n="3.16.3">Ob quas hoc faciam, binas te reddere causas</l>
+                  <l n="3.16.4"> Extemplo (constat sic mihi) velle scio.</l>
+                  <l n="3.16.5">Prima est: quas noviter (dices) contraximus <supplied>amb[o]</supplied> 5</l>
+                  <l n="3.16.6"> Gaudet amicitiis ille poëta meis.</l>
+                  <l n="3.16.7">Altera: promissi vellet jam compos haberi,</l>
+                  <l n="3.16.8"> Impatiens properis visitat ergo notis.</l>
+                  <l n="3.16.9">Nec secùs est, fateor: causis sunt cuncta duabus,</l>
+                  <l n="3.16.10"> Ex quibus unus Amor ritè duobus erit. 10</l>
+                  <milestone unit="page" n="35"/>
+                  <l n="3.16.11">Sola potest primâ me reddere patria certum,</l>
+                  <l n="3.16.12"> Innatam praeter cum pietate fidem,</l>
+                  <l n="3.16.13">Cùm fuerint semper "<foreign xml:lang="hrv">druƷina lyublyena</foreign>" vocati,</l>
+                  <l n="3.16.14"> Segnensis juvenes quos generavit humus.</l>
+                  <l n="3.16.15">Cumque alia Tibi me facies in saecla ligatum, 15</l>
+                  <l n="3.16.16"> Et domui ad votum semper adesse tuae.</l>
+                  <l n="3.16.17">Nempe tuo valeam tantum arridente favore</l>
+                  <l n="3.16.18"> Promissi vates certior esse tui.</l>
+                  <l n="3.16.19">Facque rogo, ut nostros inter numerêre patronos,</l>
+                  <l n="3.16.20"> Dentque tuum nostri nomen in aeva libri. 20</l>
+                  <l n="3.16.21">Munere condigno tali, Francisce, favori </l>
+                  <l n="3.16.22"> Vir ego, teque ipso judice, gratus ero.</l>
+                  <l n="3.16.23">Munere pro quali tuque ut securior esses</l>
+                  <l n="3.16.24"> Per mea Catholicam scripta ligabo fidem.</l>
+                  <l n="3.16.25">Dummodo perscribas Rectori, quid cupis: illud 25</l>
+                  <l n="3.16.26"> Omnino fiet me tibi dante. Vale.</l>
+                  <dateline>Viennâ 17. Maij 1682. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head xml:lang="lat">16. Generoso Domino Stephano Jellacsich […] Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <p rend="justify" ana="prosa" xml:lang="lat">Nuntium mihi à Dominatione Vestra Generosa mediante Domino Vernich missum, 35'  minimae verò opinioni meae expectatum, tristissimâ animi passione debui percepisse:  cùm vix aliud ex illo,  quàm <supplied>grav[em]</supplied> Dominationis Vestrae Generosae  indignationem, tam diuturnâ meâ in hisce <supplied>partib[us]</supplied> commoratione factâ, vel potiùs  taciturnitate servatâ, <supplied>caus[a]tam</supplied>, et conceptam elicere potuissem; unde et liberalem  hactenus <abbr>D. V. G.</abbr> dexteram, parcam jam mihi brevibus <supplied>eti[am]</supplied> notis, sinistra fortuna quòd verterit, animadverto:</p>
+                  <l n="3.17.1" xml:lang="hrv"> Jer jos ni navadda .. Tvôj Millosti bila,</l>
+                  <l n="3.17.2" xml:lang="hrv"> Dab' tako ne-radda .. v pismu govorilla:</l>
+                  <l n="3.17.3" xml:lang="hrv"> Ineokripilla .. verna slugu svoga,</l>
+                  <l n="3.17.4" xml:lang="hrv"> Kogaje lyubilla .. kot sina jednoga</l>
+                  <l n="3.17.5" xml:lang="hrv"> Nit sam se ja toga .. nâdal zasluʒitti, 5</l>
+                  <l n="3.17.6" xml:lang="hrv"> Koi iz sërca moga .. ʒelim ti dvoritti.</l>
+                  <l n="3.17.7" xml:lang="hrv"> Znaduch precinitti .. vsako dobriçinstvo;</l>
+                  <l n="3.17.8" xml:lang="hrv"> Ako j' prem suditti .. jos v' meni ditinstvo.</l>
+                  <l n="3.17.9">Arguit insontem dominatio Vestra profectò,</l>
+                  <l n="3.17.10"> Hujc est sufficiens nam data causa morae. 10</l>
+                  <l n="3.17.11">Buzina jam pridem lustrassem rura profectò</l>
+                  <l n="3.17.12"> Quaeque suis lambit littora Savus aquis.</l>
+                  <l n="3.17.13">Nuper at infandus non parvo tempore morbus</l>
+                  <l n="3.17.14"> In tristi fecit me jacuisse toro.</l>
+                  <l n="3.17.15">Postea continuo nos isthic tempore sumptus 15</l>
+                  <l n="3.17.16"> Spectati à patriis detinuêre plagis.</l>
+                  <l n="3.17.17">36 Saepè tamen scripsi sensu tibi (crede) soluto,</l>
+                  <l n="3.17.18"> Metrica sed, fateor, non nisì verba semel.</l>
+                  <l n="3.17.19">Sunt infelices, ego quas transmitto, tabellae,</l>
+                  <l n="3.17.20"> Atque illa mitti quae mihi parte solent. 20</l>
+                  <l n="3.17.21">Quae non alterius pergit mihi clausa tabellis,</l>
+                  <l n="3.17.22"> Illa meas tangit litera nulla manus.</l>
+                  <l n="3.17.23">Nescio cur, et quis spoliat mea carmina latro,</l>
+                  <l n="3.17.24"> Carnificis pereat (det Deus) ille manu.</l>
+                  <l n="3.17.25">Ast ego quamprimum missos percepero sumptus, 25</l>
+                  <l n="3.17.26"> Vitare hostiles tendo, voloque dolos.</l>
+                  <l n="3.17.27">Intereaque tui primo commendo favori</l>
+                  <l n="3.17.28"> Me, qui sum, cupio semper et esse Tuus.</l>
+                  <l n="3.17.29">In quo etiam minimè difidens, corditùs omnes</l>
+                  <l n="3.17.30"> Te sibi dilectos patre saluto. Vale.  30</l>
+                  <dateline xml:lang="lat">Viennae 17. Maij 1682. </dateline>
+               </div>
+               <div type="div1" xml:lang="hrv">
+                  
+                  <head xml:lang="hrv">17. Dobro-plemenittomu, i Viteskomu Gospodinu Ferencu Ivannovichu od Schitara, Cesarove i Kralyeve svitlosti Slobodnih Seregov Hervatskih Cerievih përvomu i Grada Pokupskoga Glavaru. Paval Vitezovich <abbr>S. i D. P.</abbr> 
+               </head>
+                  
+                  <l n="3.18.1" xml:lang="hrv"> Prieh pismo tvoje .. iz Nitre poslano,</l>
+                  <l n="3.18.2" xml:lang="hrv"> Od duʒnosti moje .. lipo postovano</l>
+                  <l n="3.18.3" xml:lang="hrv"> Ko buduch prostano .. oni hip (morem rech)</l>
+                  <l n="3.18.4" xml:lang="hrv"> Sto je v' nyem' zdërʒano .. razumih, i jos vech.</l>
+                  <l n="3.18.5" xml:lang="hrv">36' Ia dara neglyedech .. kot priately pravi 5</l>
+                  <l n="3.18.6" xml:lang="hrv"> Tvojoj chu se trudech .. posluʒit lyubavi.</l>
+                  <l n="3.18.7" xml:lang="hrv"> Içinit sto k' slavi .. bitti hoche tvojoj:</l>
+                  <l n="3.18.8" xml:lang="hrv"> Da reçes; je pravi .. priately ovo moj.</l>
+                  <l n="3.18.9" xml:lang="hrv"> Stosi skërbi mojoj .. pustil uçinitti,</l>
+                  <l n="3.18.10" xml:lang="hrv"> Opravlyeno (nedvoj) .. diçno hoche bitti. 10</l>
+                  <l n="3.18.11" xml:lang="hrv"> Gdi nechu kratitti .. skërb ni trud takoje,</l>
+                  <l n="3.18.12" xml:lang="hrv"> Neg hochu lyubitti .. kako pravo moje </l>
+                  <l n="3.18.13" xml:lang="hrv"> Jer ono dello je .. k' Domovine pruddu,</l>
+                  <l n="3.18.14" xml:lang="hrv"> Co do hvale tvoje .. raddi çtali buddu.</l>
+                  <l n="3.18.15" xml:lang="hrv"> Zpoznaje da trudu .. neoprastyas nì tí 15</l>
+                  <l n="3.18.16" xml:lang="hrv"> Ki trudti za ludu .. verruj, neche bitti.</l>
+                  <l n="3.18.17" xml:lang="hrv"> Pocelsi saditti .. kripost v' domovinni,</l>
+                  <l n="3.18.18" xml:lang="hrv"> Plod 'z cvita raditti.. sebi i druʒinni.</l>
+                  <l n="3.18.19" xml:lang="hrv"> Nakon sinov sini .. od Hërvatske vlasti</l>
+                  <l n="3.18.20" xml:lang="hrv"> Isusedi ini .. odkud primu slasti  20</l>
+                  <l n="3.18.21" xml:lang="hrv"> Koje prez napasti .. cvallo budde simme,</l>
+                  <l n="3.18.22" xml:lang="hrv"> Iù viçnoj çasti .. raslo tvoje imme.</l>
+                  <l n="3.18.23" xml:lang="hrv"> Grad, i Orsag vrime .. najsrichnie çuje,</l>
+                  <l n="3.18.24" xml:lang="hrv"> Doklese s' mudrime .. lyudmi odiçuje.</l>
+                  <l n="3.18.25" xml:lang="hrv"> Nì kraly nekralyuje .. dobro prez <supplied>Mudrost[i,]</supplied> 25</l>
+                  <l n="3.18.26" xml:lang="hrv"> Nit' preʒ nye stanuje .. Orsag v' <supplied>slobodnost[i.]</supplied>
+          </l>
+                  <milestone unit="page" n="37"/>
+                  <l n="3.18.27" xml:lang="hrv">Zamansu tvërdosti .. Gradóm i zidine,</l>
+                  <l n="3.18.28" xml:lang="hrv"> Ako né sloǯnosti .. i Mudrosti Ciné.</l>
+                  <l n="3.18.29" xml:lang="hrv"> V' Reziku nezgine .. koga Mudrost voddi:</l>
+                  <l n="3.18.30" xml:lang="hrv"> Mudrost do visine .. Nebeske prohoddi. 30</l>
+                  <l n="3.18.31" xml:lang="hrv"> Jako Kralyu skodi .. Orsagu i Gradu,</l>
+                  <l n="3.18.32" xml:lang="hrv"> Da Mudrim Narodi .. precimbe nedadu.</l>
+                  <l n="3.18.33" xml:lang="hrv"> Ní çuddo, da padu .. vechekrat ù sluʒbu,</l>
+                  <l n="3.18.34" xml:lang="hrv"> Iplakati znadu .. na zle sriche druʒbu.</l>
+                  <l n="3.18.35" xml:lang="hrv"> Tere plaçnu tuǯbu .. na zle rokke mechu, 35</l>
+                  <l n="3.18.36" xml:lang="hrv"> Zapustyenu druǯbu .. mudrih neodmechu.</l>
+                  <l n="3.18.37" xml:lang="hrv"> Srichu s' niçim vechu .. lyuctvo nedobavi,</l>
+                  <l n="3.18.38" xml:lang="hrv"> Neg dërʒech kot zrechu .. Mudrost ù lyubavi.</l>
+                  <l n="3.18.39" xml:lang="hrv"> Jer Mudrost naravi .. od zlih staz odlucsa,</l>
+                  <l n="3.18.40" xml:lang="hrv"> Mudrost k' viçnoj slavi .. voddi, i priuça. 40</l>
+                  <l n="3.18.41" xml:lang="hrv"> Lyudem priporuça .. i Boga Çlovika;</l>
+                  <l n="3.18.42" xml:lang="hrv"> Cise nyoj izruça .. procvitta mu dika:</l>
+                  <l n="3.18.43" xml:lang="hrv"> Pak, Dobrota nikka .. nima vechu Cinu,</l>
+                  <l n="3.18.44" xml:lang="hrv"> Neg kad se çiní ka .. za pomoch veksinu.</l>
+                  <l n="3.18.45" xml:lang="hrv"> Lyubav Domovinnu .. nad vsake dragosti 45</l>
+                  <l n="3.18.46" xml:lang="hrv"> Priporuça sinu .. ki jest ke Mudrosti;</l>
+                  <l n="3.18.47" xml:lang="hrv"> Da svoje kriposti .. Orsagu obrati,</l>
+                  <l n="3.18.48" xml:lang="hrv"> V' komga na svitlosti .. svita podda Matti.</l>
+                  <l n="3.18.49" xml:lang="hrv">37'  Napridak iskatti .. svoje Domovine</l>
+                  <l n="3.18.50" xml:lang="hrv"> Tribaj' htit' i znatti .. neglyedech teʒine 50</l>
+                  <l n="3.18.51" xml:lang="hrv"> Da prem neprecíne .. Lyudi sega svita</l>
+                  <l n="3.18.52" xml:lang="hrv"> Nit za dobre çine .. daju dobra mita.</l>
+                  <l n="3.18.53" xml:lang="hrv"> Ali stanovitta .. je placha Kriposti</l>
+                  <l n="3.18.54" xml:lang="hrv"> V' Nebbu, gdi procvitta .. v' neumërtelynosti,</l>
+                  <l n="3.18.55" xml:lang="hrv"> Tebi Bog Mudrosti .. dalje dobru merru: 55</l>
+                  <l n="3.18.56" xml:lang="hrv"> Dalti je Jakosti .. i v' sablyi, i v' perru.</l>
+                  <l n="3.18.57" xml:lang="hrv"> Branis s' rukom verru .. i uçis takoje.</l>
+                  <l n="3.18.58" xml:lang="hrv"> Nevernim zlu smerru .. à vernim pokoje.</l>
+                  <l n="3.18.59" xml:lang="hrv"> Neg ti ove tvoje .. kripostne teʒine,</l>
+                  <l n="3.18.60" xml:lang="hrv"> Obrati za svoje .. kripost Domovine. 60</l>
+                  <l n="3.18.61" xml:lang="hrv"> Znas da skoro ginne .. ona zemlya malla</l>
+                  <l n="3.18.62" xml:lang="hrv"> Ca je mnokrat sine .. lyutom' Marçu dala</l>
+                  <l n="3.18.63" xml:lang="hrv"> Odtud ní imalla .. pokoja zadosti,</l>
+                  <l n="3.18.64" xml:lang="hrv"> Dabiih pustyalla .. nastojat Mudrosti.</l>
+                  <l n="3.18.65" xml:lang="hrv"> Zato i vridnosti .. zadërʒanja svoga, 65</l>
+                  <l n="3.18.66" xml:lang="hrv"> Cih uçìni dosti .. za Dom i za Boga,</l>
+                  <l n="3.18.67" xml:lang="hrv"> Pera zuçenoga .. ní mogla imatti,</l>
+                  <l n="3.18.68" xml:lang="hrv"> Za moch do ovoga .. naroda pisatti</l>
+                  <l n="3.18.69" xml:lang="hrv"> Itako nam zkrati .. sricha po toj silli,</l>
+                  <l n="3.18.70" xml:lang="hrv"> Dà ní moch kazatti .. s' çimbise diçilli.  70</l>
+                  <l n="3.18.71" xml:lang="hrv">38 Dab' druggi imilli .. Puki nasse Ratti,</l>
+                  <l n="3.18.72" xml:lang="hrv"> Zlatom bije htilli .. v' knyige pritiskatti.</l>
+                  <l n="3.18.73" xml:lang="hrv"> Sto je meni znatti .. dala Narav moja,</l>
+                  <l n="3.18.74" xml:lang="hrv"> Nechu prepustyatti .. truda nì pokoja;</l>
+                  <l n="3.18.75" xml:lang="hrv"> Il Mira, il Boja .. Hërvatsko dërʒanje, 75</l>
+                  <l n="3.18.76" xml:lang="hrv"> Dattichu nisto ja .. svitu na poznanjé.</l>
+                  <l n="3.18.77" xml:lang="hrv"> Ali zadërzanje .. malla oblast çini.</l>
+                  <l n="3.18.78" xml:lang="hrv"> Ubogo je stanje .. v' tesnoj domovini.</l>
+                  <l n="3.18.79" xml:lang="hrv"> Ce pak sricha hini .. ù Blagu moguche,</l>
+                  <l n="3.18.80" xml:lang="hrv"> Oni jesu sini .. skuposti kipuche. 80</l>
+                  <l n="3.18.81" xml:lang="hrv"> Zaman jest i vruche .. sërce dom pomochi</l>
+                  <l n="3.18.82" xml:lang="hrv"> Od nikud tekuche .. kada nie mochi.</l>
+                  <l n="3.18.83" xml:lang="hrv"> Pak Vila v' samochi .. najradya pribiva,</l>
+                  <l n="3.18.84" xml:lang="hrv"> A kad je v' tesnochi .. teskom volyom spiva.</l>
+                  <l n="3.18.85" xml:lang="hrv"> Imoju zadiva .. Vilu, deh skërb mnoga, 85</l>
+                  <l n="3.18.86" xml:lang="hrv"> Redkokrat poçiva .. do naslada svoga.</l>
+                  <l n="3.18.87" xml:lang="hrv"> Al uffam ù Boga .. da jos pomoch hoche,</l>
+                  <l n="3.18.88" xml:lang="hrv"> Ipomanysat moga .. stana potriboche.</l>
+                  <l n="3.18.89" xml:lang="hrv"> Zaç moje dragoche .. ke prossim dami dá:</l>
+                  <l n="3.18.90" xml:lang="hrv"> Domovini voche .. nosse do napridda. 90</l>
+                  <l n="3.18.91" xml:lang="hrv"> Dà prem k' ruki sidda .. Kraguly, kaga vabi,</l>
+                  <l n="3.18.92" xml:lang="hrv"> Isvogase gnyizda .. v' polaçah pozabi:</l>
+                  <l n="3.18.93" xml:lang="hrv">38' Pri meni nerabi .. vab, nì visnyi krovi,</l>
+                  <l n="3.18.94" xml:lang="hrv"> Ijaki, i slabi .. leté v' hum orlovi.</l>
+                  <l n="3.18.95" xml:lang="hrv"> Bog neg' blagoslovi .. nas Orsag ù miru, 95</l>
+                  <l n="3.18.96" xml:lang="hrv"> (Za koga gotovi .. jesmo umrit Virru)</l>
+                  <l n="3.18.97" xml:lang="hrv"> Dàse neraztirru .. v' nyem zlih glasov vlasti,</l>
+                  <l n="3.18.98" xml:lang="hrv"> Idà ne zadirru .. v' nyem Turske napasti</l>
+                  <l n="3.18.99" xml:lang="hrv"> Dobitche glas çasti, . i vidyena dika</l>
+                  <l n="3.18.100" xml:lang="hrv"> Nechemu opasti .. od vika do vika. 100</l>
+                  <l n="3.18.101" xml:lang="hrv"> Lipaje prilika .. tebi od naravi</l>
+                  <l n="3.18.102" xml:lang="hrv"> Za vçinit velika .. Domachoj Dërʒavi.</l>
+                  <l n="3.18.103" xml:lang="hrv"> Dabite lyubavi .. tudjih nederʒalle.</l>
+                  <l n="3.18.104" xml:lang="hrv"> S' tobom bi ù slavi .. nasse Zemlye cvalle.</l>
+                  <l n="3.18.105" xml:lang="hrv"> Ja sam glavé malle .. i malle jakosti, 105</l>
+                  <l n="3.18.106" xml:lang="hrv"> Dabimise dale .. gannut tve mudrosti:</l>
+                  <l n="3.18.107" xml:lang="hrv"> Tvoj nauk je dosti.. i tva volya tebi,</l>
+                  <l n="3.18.108" xml:lang="hrv"> Nì ove lahkosti .. nebi pisat meni.</l>
+                  <l n="3.18.109" xml:lang="hrv"> Vsaki zna pri sebi .. Sto? i zaç sto çiní?</l>
+                  <l n="3.18.110" xml:lang="hrv"> Pamet dana 'z Nebbi .. razumne nehini. 110</l>
+                  <l n="3.18.111" xml:lang="hrv"> Adda htij, i çini .. stote ʒelye nudde:</l>
+                  <l n="3.18.112" xml:lang="hrv"> Jeda Domovini .. vse na diku budde.</l>
+                  <l n="3.18.113" xml:lang="hrv"> Za moje pak trude .. i nemoj skërbitti:</l>
+                  <l n="3.18.114" xml:lang="hrv"> Med ke godar lyude .. dojdem, tvojchu bitti.</l>
+                  <l n="3.18.115" xml:lang="lat">39  Illyricis jam Pucz venit legatus ab oris 115</l>
+                  <l n="3.18.116" xml:lang="lat"> Sanus <expan>et</expan> incolumis, sed nova pauca tulit.</l>
+                  <l n="3.18.117" xml:lang="lat">Cuzmince Makario, Golubocz quoque, Mulciber igne</l>
+                  <l n="3.18.118" xml:lang="lat"> Absumpsit rapido, caetera cuncta silent.</l>
+                  <l n="3.18.119" xml:lang="lat">Idem te, et Rector, Szalai Vernichque salutant</l>
+                  <l n="3.18.120" xml:lang="lat"> Teque salutat Eques quintus, Amice. Vale. 120</l>
+                  <dateline xml:lang="lat"> Viennâ 21. Maij 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>18. Ad Excellentissimum [------]<gap/> </head>
+                  
+                  <l n="3.19.1">Missus ab Adriacis nuper qui Nuntius oris</l>
+                  <l n="3.19.2"> Conventûs membrum Soproniensis erat,</l>
+                  <l n="3.19.3">Nunc Tua supplicibus conscendit in atria votis,</l>
+                  <l n="3.19.4"> Devotèque humiles te jacit ante, preces.</l>
+                  <l n="3.19.5">Quas cùm, magne Comes, placida perceperis aure,  5</l>
+                  <l n="3.19.6"> Nec tuus his desit subveniendo favor.</l>
+                  <l n="3.19.7">Postquam Sopronii, Leopoldi festa colenti</l>
+                  <l n="3.19.8"> Praebueram summo Pindea vincla Duci, </l>
+                  <l n="3.19.9">Protinus, ùt Procerum me pars non parva movebat,</l>
+                  <l n="3.19.10"> Subditus Ejusdem laurea serta peto. 10</l>
+                  <l n="3.19.11">Post haec aeternas cecini sub nomine Regni </l>
+                  <l n="3.19.12"> Hungari grates, Illyricûmque trium. </l>
+                  <l n="3.19.13">39'  Horum quòd celebrem fausto cum fine Diaetam</l>
+                  <l n="3.19.14"> Solvisset dicta Caesar in Urbe Sacer,</l>
+                  <l n="3.19.15">Quas penès, aeternùm subjecto, Gratia Vati 15</l>
+                  <l n="3.19.16"> Caesaris Ejusdem sola petita fuit.</l>
+                  <l n="3.19.17">Et nutritivo Christi dum festa parenti</l>
+                  <l n="3.19.18"> Iosepho nuper luxit ab axe dies,</l>
+                  <l n="3.19.19">Iosephi Archiducis Romano Caesare Nati</l>
+                  <l n="3.19.20"> Auspiciis sacrum duxi Helicone Chorum. 20</l>
+                  <l n="3.19.21">Quem Chorum (ùt exemplar te perspiciente docebit),</l>
+                  <l n="3.19.22"> Agnosces rarum sat cecinisse melos.</l>
+                  <l n="3.19.23">Tunc à Caesarea mihi Majestate petebam</l>
+                  <l n="3.19.24"> Aurato pendens torque numisma dari,</l>
+                  <l n="3.19.25">Cernens, quòd simili subjectos munere servos 25</l>
+                  <l n="3.19.26"> Ornare, et fidos condecorare solet.</l>
+                  <l n="3.19.27">Sed cùm saevities violenti maxima morbi</l>
+                  <l n="3.19.28"> Concuterit vires debilitando meas,</l>
+                  <l n="3.19.29">Non poteram Regis sacram rescire voluntam,</l>
+                  <l n="3.19.30"> Nec poteram votis invigilare meis. 30</l>
+                  <l n="3.19.31">Quare, si interea talis commissa fuisset,</l>
+                  <l n="3.19.32"> O Comes, Augusti Gratia, magne, tibi,</l>
+                  <l n="3.19.33">Oro demissè; dignere benignus eâdem </l>
+                  <l n="3.19.34"> Et me inter servos exhilarare tuos.</l>
+                  <l n="3.19.35">40 Ut magìs his audax meritis tua tecta frequentem, 35</l>
+                  <l n="3.19.36"> Excelsaeque colam nomina clara domûs.</l>
+                  <l n="3.19.37">Si necdum foret illa tuae sed tradita dextrae,</l>
+                  <l n="3.19.38"> Patrocinari, quaeso, deinde velis.</l>
+                  <l n="3.19.39">Ut, cùm Caesareum supplex accessero Numen,</l>
+                  <l n="3.19.40"> Mollius auxiliis id mihi verte tuis. 40</l>
+                  <l n="3.19.41">Sicque Patronalis reddat me gratia vinctum,</l>
+                  <l n="3.19.42"> In cuncta ut fiam debitor aeva tuus.</l>
+                  <l n="3.19.43">Utque meis fautor semper celebrere Camaenis</l>
+                  <l n="3.19.44"> Clarus in Ausoniis, Illyricisque plagis.</l>
+                  <l n="3.19.45">At, ne paeniteat nostrum te egisse patronum,  45</l>
+                  <l n="3.19.46"> Efficiam studii sedulitate mei.</l>
+                  <l n="3.19.47">In quo spero tuum mihi, praestolorque favorem, </l>
+                  <l n="3.19.48"> Omnia subjectus gratiae in aeva tuae.</l>
+                  <dateline> Viennae 25. Maij 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>19. Ad Excellentissimum ac Illustrissimum Dominum [------] </head>
+                  
+                  
+                  <l n="3.20.1">Non timeo mihi, Celse Baro, quòd sorte sinistrâ</l>
+                  <l n="3.20.2"> Exciderint animo nupera verba tuo.</l>
+                  <l n="3.20.3">Per quae spem certam famulanti verba Poëtae</l>
+                  <l n="3.20.4"> Nempè Sopronensi nuper in Urbe dabas.</l>
+                  <l n="3.20.5">40' Scilicet ut clemens et primus ab axe <supplied>Monar[cha]</supplied> 5</l>
+                  <l n="3.20.6"> Praebuit assensus ad mea vota suos.</l>
+                  <l n="3.20.7">A quo vatidicam Parnasseus incola laurum</l>
+                  <l n="3.20.8"> Quaerebam: rarum sed penès artis opus.</l>
+                  <l n="3.20.9">Et quia florenos Camera percepimus Hunna</l>
+                  <l n="3.20.10"> Centum, qui summi Gratia Regis erant. 10</l>
+                  <l n="3.20.11">Inter at ipsius meritos hucusque Poëtas</l>
+                  <l n="3.20.12"> Specto mihi lauri nomina, specto locum.</l>
+                  <l n="3.20.13">Quod cùm, demissè factis, succedere votis</l>
+                  <l n="3.20.14"> Ex facili possit te mediante meis:</l>
+                  <l n="3.20.15">Admonitum cupii, motumquè favere <supplied>patron[um]</supplied> 15</l>
+                  <l n="3.20.16"> Ut divae facias hoc pietatis opus.</l>
+                  <l n="3.20.17">Cùm sit nullus <unclear>†ob†</unclear>, pariter cùm plurima possit </l>
+                  <l n="3.20.18"> Dos <supplied>[l]inguae</supplied>, ingenii dexteritasque tui.</l>
+                  <l n="3.20.19">Et quoniam [-----] Regnorum nomine grates </l>
+                  <l n="3.20.20"> In latium expressas obtuleramque melos, 20</l>
+                  <l n="3.20.21">Archiducique chorum deduxi postea sacrum,</l>
+                  <l n="3.20.22"> Patroni coleret dum sacra festa sui.</l>
+                  <l n="3.20.23">Auream ab augusto petii mihi Caesare torquem,</l>
+                  <l n="3.20.24"> Qua sibi subiectos promeritosque ligat.</l>
+                  <l n="3.20.25">Pro qua etiam mihi te patronum quaero benignum, 25</l>
+                  <l n="3.20.26"> Quatenus et famulus glorier esse tuus.</l>
+                  <l n="3.20.27">41 Supplico propterea deflexo poplite vates,</l>
+                  <l n="3.20.28"> Fiat ut auxilio laeta Camaena tuo,</l>
+                  <l n="3.20.29">Utque tibi toto laudabile nomen in Orbe</l>
+                  <l n="3.20.30"> Excolat, atque illud suadeat illa coli. 30</l>
+                  <l n="3.20.31">Quod cùm devoto fieri mihi pectore spero,</l>
+                  <l n="3.20.32"> Ocius auxilijs praestolor idque tuis.</l>
+                  <dateline>Viennae 25. Maij 1682. </dateline>
+               </div>
+               <milestone unit="page" n="42"/>
+               <div type="div1" rend="P10">
+                     <head>20. Generoso Domino Francisco Spolarich <abbr>etc.</abbr> Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.21.1">Tam mihi Praeposito quàm, mi Francisce, Belensi</l>
+                  <l n="3.21.2"> Ex Srelis placuit litera missa tuis.</l>
+                  <l n="3.21.3">Namque tui constans pietas nitet inde favoris,</l>
+                  <l n="3.21.4"> Emicat in tenero fortis amore fides.</l>
+                  <l n="3.21.5">Pro quo, cùm meritas, tum summas reddere grates 5</l>
+                  <l n="3.21.6"> Obligor: ad mortem vinctus et esse meam.</l>
+                  <l n="3.21.7">Ac precor ut coepto me <sic>prosequiteris</sic> amore,</l>
+                  <l n="3.21.8"> Nec tuus absistas continuare favor.</l>
+                  <l n="3.21.9">Ut nec ego tibi, nec Domui, Francisce, tuorum</l>
+                  <l n="3.21.10"> Deficiam, teste at continuabo Deo. 10</l>
+                  <l n="3.21.11">Imò, ubi non poterit mea sat contendere Virtus,</l>
+                  <l n="3.21.12">42' Flectam Patronos ad tua vota meos.</l>
+                  <l n="3.21.13">Compellamque meos, tibi ut affectentur, amicos,</l>
+                  <l n="3.21.14"> Ad mea letha tuus denique totus ero.</l>
+                  <l n="3.21.15">Aeternumque canent nostri tua nomina libri, 15</l>
+                  <l n="3.21.16"> Famaque erit meritis non moritura tuis.</l>
+                  <l n="3.21.17">Haec penès orabo: majorem si mihi rerum</l>
+                  <l n="3.21.18"> Reddere noticiam, quo citiùsque, potes,</l>
+                  <l n="3.21.19">Nec calamo, nec adhuc modico tu parce labori:</l>
+                  <l n="3.21.20"> Omnia servitiis sunt reparanda meis. 20</l>
+                  <l n="3.21.21">Saepiùs ut jurans coram Rectore spopondi,</l>
+                  <l n="3.21.22"> Impius haud cuculus, grata Ciconia ero. </l>
+                  <l n="3.21.23">Et velut ex servo factus tibi filius, omni</l>
+                  <l n="3.21.24"> Teque, domumque tuam cum <sic>pitetae</sic> colam.</l>
+                  <l n="3.21.25">Quo patronalem cùm praestolor atque paternum 25</l>
+                  <l n="3.21.26"> In passu affectum, [------]</l>
+                  <l n="3.21.27">Cum Ciculino te Praesule Znika salutat,</l>
+                  <l n="3.21.28"> Et veniam ob nullas poscit uterque notas.</l>
+                  <l n="3.21.29">Namque hodie Praesul medicinam sumpsit, et alter</l>
+                  <l n="3.21.30"> Totam habet in curis, atque labore diem. 30</l>
+                  <l n="3.21.31">Articulis Hunnae conjuncta hìc Acta Diaetae,</l>
+                  <l n="3.21.32"> Accipe grato animo: terque quaterque vale.</l>
+                  <dateline>Viennâ 9. Iunii 1682. </dateline>
+               </div>
+               <milestone unit="page" n="43"/>
+               <div type="div1" rend="P10">
+                     <head>22. Generoso Domino Georgio Horvat Cissovich <abbr>etc.</abbr> Paulus Ritter Salutem Plurimam Dicit </head>
+                  
+                  <l n="3.22.1">Quae nunc exmitto, priùs exmittenda fuissent</l>
+                  <l n="3.22.2"> Carmina, ni morbus praepediisset iter.</l>
+                  <l n="3.22.3">Haec ibi Collegisque tuis, nostrisque Patronis</l>
+                  <l n="3.22.4"> Mitto salutandis distribuenda. Vale.</l>
+                  <dateline>Viennâ 17. Iunii 1682. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>21. Admodum Reverendo Domino Stephano Shelischevich <abbr>etc-</abbr> Paulus Ritter Salutem Plurimam Dicit </head>
+                  
+                  <l n="3.23.1">Parce, precor, nostros inter, venerande, Patronos, </l>
+                  <l n="3.23.2"> Quòd tibi sic crebras mittere fido notas.</l>
+                  <l n="3.23.3">Non aliis confido viis, nam littera certè,</l>
+                  <l n="3.23.4"> Quò mea mandatur vix aliquando venit,</l>
+                  <l n="3.23.5">Unde sibi talem tua gratia, quaeso, favorem 5</l>
+                  <l n="3.23.6"> Asummat, meritis gratificanda meis.</l>
+                  <l n="3.23.7">Jellacsichiacas ambae mittantur ad aedes,</l>
+                  <l n="3.23.8"> Unde comes queat, et Frater habere suam.</l>
+                  <l n="3.23.9">In reliquo, cùm nil habeam novitatis, amori</l>
+                  <l n="3.23.10"> Me commendo tuo, chare Patrone. Vale. 10</l>
+                  <dateline>Viennâ 14. Iunij 1682. </dateline>
+               </div>
+               <milestone unit="page" n="43'"/>
+               <div type="div1" rend="P10">
+                     <head>24. Generoso Domino Francisco Ivannovich Paulus Ritter Salutem Plurimam Dicit </head>
+                  
+                  <l n="3.24.1">Tradita sunt tua scripta mihi, Francisce, salusque,</l>
+                  <l n="3.24.2"> Per condiscipulum Delisimona meum.</l>
+                  <l n="3.24.3">Ad quae cum multa rescribo pauca salute,</l>
+                  <l n="3.24.4"> Curarum moles quod mihi magna facit.</l>
+                  <l n="3.24.5">Cujus partem aliquam curae sermone soluto 5</l>
+                  <l n="3.24.6"> In missis poteras nuper habere notis.</l>
+                  <l n="3.24.7">Maxima Segnensi me cura molestat ab urbe,</l>
+                  <l n="3.24.8"> Prolongatque meam partibus hisce moram.</l>
+                  <l n="3.24.9">Illam namque magìs Capitaneus opprimit urbem,</l>
+                  <l n="3.24.10"> Quàm premeret telis hostis uterque suis. 10</l>
+                  <l n="3.24.11">44 In quorum rigidis mea Segnia faucibus haeret,</l>
+                  <l n="3.24.12"> Infelix ducibus Segnia facta suis!</l>
+                  <l n="3.24.13">Durior est Turco Capitaneus ille tyranno,</l>
+                  <l n="3.24.14"> Nam fera Romani corda Neronis habet.</l>
+                  <l n="3.24.15">Illius, est vix, qui non à feritate doleret, 15</l>
+                  <l n="3.24.16"> Est etiam vix qui non male dicat ei.</l>
+                  <l n="3.24.17">Christorum nunquam veros injuriat hostes,</l>
+                  <l n="3.24.18"> Sed Christi et populo Caesaris ille nocet.</l>
+                  <l n="3.24.19">Hej mihi quot lacrymas sitibundo devorat ore,</l>
+                  <l n="3.24.20"> Quas ea Dalmatiae pars miseranda movet! 20</l>
+                  <l n="3.24.21">Quem propero non hìc calamo depingo, sed illum</l>
+                  <l n="3.24.22"> Iustus <expan>et</expan> omnipotens judicet, ipse Deus.</l>
+                  <l n="3.24.23">Commendata magìs tua res nequit esse profectò,</l>
+                  <l n="3.24.24"> Quàm per nupernas extitit illa notas.</l>
+                  <l n="3.24.25">Omninò faciam quod saepiùs ante spopondi, 25</l>
+                  <l n="3.24.26"> Primùm ubi in Illyrica parte quietus ero.</l>
+                  <l n="3.24.27">Te Pucz et Rector per me resalutat uterque,</l>
+                  <l n="3.24.28"> Sic etiam Vernich, sic Berislava tuus.</l>
+                  <l n="3.24.29">Tu quoque Ferpatacum scriptoris parte salutes,</l>
+                  <l n="3.24.30"> Cum quo, sinceris cum reliquisque vale.  30</l>
+                  <dateline> Viennae 25. Iunii 1682.</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>23. Generoso Domino Martino Vernich Postae Zagrabiensis <expan>et</expan> Tellonij Berdocensis Magistro Paulus Ritter Salutem Plurimam Dici</head>
+                  
+                  <l n="3.25.1">Deberem missas tibi scribere mille salutes,</l>
+                  <l n="3.25.2"> Si mora, si vati pristina vena foret.</l>
+                  <l n="3.25.3">44' Multa sed innumeros addit mihi cura labores,</l>
+                  <l n="3.25.4"> Ut modo scripturo sit mihi nulla quies,</l>
+                  <l n="3.25.5">Ergò ego, quod multis deberem scribere metris, 5</l>
+                  <l n="3.25.6"> Ad metra scribendum digero pauca.</l>
+                  <l n="3.25.7">Te Praesul, Rector, te Pucz, Martine, salutant,</l>
+                  <l n="3.25.8"> Te Convictorum, te quoque Alumna cohors.</l>
+                  <l n="3.25.9">Te coquus, <expan>et</expan> Pongracz, et uterque salutat ephebus</l>
+                  <l n="3.25.10"> Cocsis, et à porta saepè patente senex. 10</l>
+                  <l n="3.25.11">Te muri, camerae, cellaria, tecta, culina, </l>
+                  <l n="3.25.12"> Quaeque fenestra domûs, janua quaeque domus,</l>
+                  <l n="3.25.13">Teque gradus cuncti, stabulum te, fonsque salutat,</l>
+                  <l n="3.25.14"> Nec non stercoribus plena cloaca suis.</l>
+                  <l n="3.25.15">Te cunctae matulae, te pocula cuncta salutant. 15</l>
+                  <l n="3.25.16"> Cuppae, olae, calices, dolia, vasa, scyphi.</l>
+                  <l n="3.25.17">Rectoris braccae, Vice-Rector teque salutat,</l>
+                  <l n="3.25.18"> Et Vice-Zuppani binum occulare senis.</l>
+                  <l n="3.25.19">Teque <foreign>barocka</foreign>  Equitis, sed non <foreign>Barouka</foreign>salutant</l>
+                  <l n="3.25.20"> Osmani salvum teque <foreign>tanekko</foreign>  cupit. 20</l>
+                  <l n="3.25.21">Te Catus ipse levans ut Martia spicula caudam</l>
+                  <l n="3.25.22"> Teque salutaret si canis ulla foret.</l>
+                  <l n="3.25.23">Ergò brevi multas versu, Martine, salutant</l>
+                  <l n="3.25.24"> Accipe congestas, atque jocando vale.</l>
+                  <dateline>Viennâ 19. Iunii 1682. </dateline>
+               </div>
+               <milestone unit="page" n="45"/>
+               <div type="div1" rend="P10">
+                     <head>25. Generoso Domino Georgio Horvath Cissovich Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.26.1">Carmina quae celebri nuper modulabar Amico,</l>
+                  <l n="3.26.2"> Sunt mandata, cui cùm placuêre, typis.</l>
+                  <l n="3.26.3">Illa tibi, sociisque tuis, nostrisque Patronis</l>
+                  <l n="3.26.4"> (Complaceant utinam!) distribuisse placet.</l>
+                  <l n="3.26.5">Quorum materies tibi si, nec forma placeret, 5</l>
+                  <l n="3.26.6"> Affectus placeat sed meus, opto. Vale.</l>
+                  <dateline>Viennâ 22. Iulij 1682. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>26. Admodum Reverendo Domino Stephano Selischevich Canonico Zagrabiensi Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  <l n="3.27.1">Hìc, mandata typis noviter, mea carmina mitto,</l>
+                  <l n="3.27.2"> Ut Capitolinis distribuantur heris.</l>
+                  <l n="3.27.3">Quorum quandoquidem pars es, nostrique Patroni</l>
+                  <l n="3.27.4"> Protinus officium semper amanter agis,</l>
+                  <l n="3.27.5">Ausim missa tibi committere carmina, quęso, 5</l>
+                  <l n="3.27.6"> Fratribus ut ueniant distribuenda Tuis.</l>
+                  <l n="3.27.7">Fasciculumque, meo Fratri quem dirigo, junctum,</l>
+                  <l n="3.27.8"> Cum Iellacsichii fasciculoque, dabis.</l>
+                  <l n="3.27.9">Qui si jam Zagraba non plùs reperitur in urbe,</l>
+                  <l n="3.27.10"> Ad Jellacsichium mittito utrumque, rogo. 10</l>
+                  <l n="3.27.11">Quatenus illo notis absentis fratris apertis,</l>
+                  <l n="3.27.12"> Quod frater faceret, perficere ipse velit.</l>
+                  <l n="3.27.13">45' Haec precor; atque meum nunquam desiste patronum</l>
+                  <l n="3.27.14"> Te dici semper posse, jubensque vale.</l>
+                  <dateline>Vienna, 3. Augusti 1682. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>27. Generoso Domino Stephano Jellacsich de Buzin, Vice-Comiti Paulus Ritter Salutem Plurimam Dicit</head>
+                  
+                  
+                  <l n="3.28.1">Scripsit herì parvam calamo properante tabellam,</l>
+                  <l n="3.28.2"> Attamen haud, dicis, versibus usus Eques.</l>
+                  <l n="3.28.3">Sed neque iam possum, velut opto, pluribus [...]<gap/>, </l>
+                  <l n="3.28.4"> Musa licet calamum carmen arare jubet.</l>
+                  <l n="3.28.5">Nam mihi continuò plures mea Segna labores 5</l>
+                  <l n="3.28.6"> Dans onerat curis hoc juvenile caput.</l>
+                  <l n="3.28.7">Sed spero in Christum, qui nos à morte resolvit, </l>
+                  <l n="3.28.8"> Deponet Decium Segna soluta jugum.</l>
+                  <l n="3.28.9">Aequus non ultrò dextram permittet iniquam,</l>
+                  <l n="3.28.10"> In justo populo posse ferire, Deus. 10</l>
+                  <l n="3.28.11">Sublimem currus montem jam tangit onustus,</l>
+                  <l n="3.28.12"> Vel rota rumpetur, vel via vertet onus.</l>
+                  <l n="3.28.13">His ego Sclavoniam versùs intendo peractis,</l>
+                  <l n="3.28.14"> Vertere in optatam taedia longa viam.</l>
+                  <l n="3.28.15">Et Buzinenses nisum gestando per agros 15</l>
+                  <l n="3.28.16"> Pingue coturnicum dilaniare caput.</l>
+                  <l n="3.28.17">Nec non exiguas, quas dant mihj Numina, dotes,</l>
+                  <l n="3.28.18"> Impendam patrijs utilitate plagis.</l>
+                  <l n="3.28.19">Multa licet juveni misera pro morte minetur</l>
+                  <l n="3.28.20"> Pro nunc eximio praediti honore viri. 20</l>
+                  <l n="3.28.21">46  Sed quia justitiam tueor causatus est insons,</l>
+                  <l n="3.28.22"> Quam Deus omnipotens condidit atque fovet,</l>
+                  <l n="3.28.23">Nil timeo sontes insons, justusque nefandos,</l>
+                  <l n="3.28.24"> Sum quoniam justo tutus ubique Deo.</l>
+                  <l n="3.28.25">Quae nova mitto, meo vel des (rogo) carmina Fratri, 25</l>
+                  <l n="3.28.26"> Vel mitte, ad quem sunt carmina scripta, viro</l>
+                  <l n="3.28.27">Caetera fasciculo, quà vis, converte soluto,</l>
+                  <l n="3.28.28"> Cumque tuis felix, incolumisque, vale.</l>
+                  <dateline>Eâdem ibidem  </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>28. Ad Eundem</head>
+                  
+                  <l n="3.29.1">Lata mihi tua, Vir Generose, est litera: Mensis</l>
+                  <l n="3.29.2"> Buzini primo litera scripta die.</l>
+                  <l n="3.29.3">Qua post plura mihi transmissa novalia: Banum</l>
+                  <l n="3.29.4"> Illyrii, clarum Marteque et Arte genus,</l>
+                  <l n="3.29.5">Inter praesidium Legrad, urbemque Caproncam, 5</l>
+                  <l n="3.29.6"> Cum valida, scribis, castra locasse manu,</l>
+                  <l n="3.29.7">Ut fera Bosnensis fraenet molimina Bassae,</l>
+                  <l n="3.29.8"> Vertat et à nostris Turcica tela plagis.</l>
+                  <l n="3.29.9">Qui nil ausus erit licet attentare Tyrannus,</l>
+                  <l n="3.29.10"> Banus erit Turcos aggrediturus agros. 10</l>
+                  <l n="3.29.11">Fortunent superi coeptum quo strenuus heros</l>
+                  <l n="3.29.12"> Praeclarum Thomae nomen adaequet avi!</l>
+                  <l n="3.29.13">Ut queat hostili tantum de caede triumphum</l>
+                  <l n="3.29.14"> Ducere, Cuppia duxit ut ille vado.</l>
+                  <l n="3.29.15">Utque etiam priscum renovet gens Illyra nomen 15</l>
+                  <l n="3.29.16"> Sub tam magnanimo gens Vice-Rege potens.</l>
+                  <l n="3.29.17">46' Quae sitit hostilem plùs multò haurire cruorem,</l>
+                  <l n="3.29.18"> Quàm Tokajanum, quàm Caneense merum.</l>
+                  <l n="3.29.19">Hostem cùm impetimus, confinia ab hoste tuemur,</l>
+                  <l n="3.29.20"> Est quia in hostili paucula pace salus. 20</l>
+                  <l n="3.29.21">Sat docet exemplo tellus hanc Pannona tristi</l>
+                  <l n="3.29.22"> Damnosam pacem semper ab hoste fore.</l>
+                  <l n="3.29.23">Hisce bis undenos paci confisa per annos</l>
+                  <l n="3.29.24"> Pagis ter decies mille tributa luit.</l>
+                  <l n="3.29.25">Quod vix per bellum sibi Thrax vicisset apertum,  25</l>
+                  <l n="3.29.26"> Naturali hosti nulla tenenda fides.</l>
+                  <l n="3.29.27">Cujus Roma fuit, donec bellaverat, <emph>orbis</emph>,</l>
+                  <l n="3.29.28"> Pace triumphando desijt esse, <emph>caput</emph>. </l>
+                  <l n="3.29.29">Armis vincuntur, quibus armis regna tuentur,</l>
+                  <l n="3.29.30"> Immortale solent arma parare decus. 30</l>
+                  <l n="3.29.31">Extera prudenter regit atque domestica Prorex,</l>
+                  <l n="3.29.32"> Ipso est libertas nostra tuenda Duce.</l>
+                  <l n="3.29.33">Auxiliumque dabit populo Deus ipse fideli,</l>
+                  <l n="3.29.34"> Qui pro aris justè militat atque focis.</l>
+                  <l n="3.29.35">Ille, precor, nostrum benedicat ab aethere Banum,  35</l>
+                  <l n="3.29.36"> Et sua fortunet coelitùs arma. Vale.</l>
+                  <dateline>Viennâ 9. Augusti 1682. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>29. Excellentissimo ac Illustrissimo Domino, Domino Comiti Nicolao Erdeödy de Monyorokerek, Montis Claudii et Comitatûs Varasdiensis perpetuo Comiti, Inclytorum Regnorum Dalmatiae, Croatiae et Sclavoniae Proregi, Confiniorum Colapianorum <note>47</note> Supremo Capitaneo, ac Sacrae Caesareae Regiaeque Majestatis Consiliario Camerario <abbr>etc.etc.</abbr>
+                     </head> 
+                  
+                  <l n="3.30.1">Ad tua nunc facili descendit castra cothurno</l>
+                  <l n="3.30.2"> Cum venia vates, Bane supreme, tuus.</l>
+                  <l n="3.30.3">Quem tuus excepit sub herilia tecta togatum</l>
+                  <l n="3.30.4"> In famulos uber cum pietati favor.</l>
+                  <l n="3.30.5">Certa per Austriacam portatur fama Viennam, 5</l>
+                  <l n="3.30.6"> Nominis eximia non sine laude tui.</l>
+                  <l n="3.30.7">Martia pro Patria quòd suscipis arma salute,</l>
+                  <l n="3.30.8"> Utque pias aras, ut tueare focos.</l>
+                  <l n="3.30.9">Niteris Illyrici spatium defendere regni,</l>
+                  <l n="3.30.10"> Fortis et hostiles Dux cohibere minas. 10</l>
+                  <l n="3.30.11">Extollens Patriae curas, virtutis honores,</l>
+                  <l n="3.30.12"> Antiquum ut renoves militiaeque decus.</l>
+                  <l n="3.30.13">Vis imitatus eos heroes, strenuus heros,</l>
+                  <l n="3.30.14"> Virtutem meritis tollere ad astra tuis.</l>
+                  <l n="3.30.15">Romano fuerat victoria digna triumpho, 15</l>
+                  <l n="3.30.16"> Quam tuus in Colapis littore fecit avus.</l>
+                  <l n="3.30.17">Tali te Superi fortunent, quaeso, trophaeo,</l>
+                  <l n="3.30.18"> Ut redeas spolijs plenus abinde domum.</l>
+                  <l n="3.30.19">Ut te captivis victum super esseda Turcis</l>
+                  <l n="3.30.20"> Excipiat laeto nympha Croata sinu. 20</l>
+                  <l n="3.30.21">Hostibus incutias aeternum, Bane, timorem,</l>
+                  <l n="3.30.22"> Quoque labor major, gloria major erit.</l>
+                  <l n="3.30.23">47' Quae semper justo faverunt Numina bello</l>
+                  <l n="3.30.24"> Illa volunt coeptis prompta favere tuis.</l>
+                  <l n="3.30.25">Cum quibus effectum celebris sortire Trophoei:  25</l>
+                  <l n="3.30.26"> Quo exhilares Patrium, dux generose, solum.</l>
+                  <dateline>Eâdem ibidem </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>30. Ad Mappam Hungariae à Reverendissimo Domino Georgio Matthiae Fischer delineatam et Serenissimo Archiduci Austriae Leopoldo Caesaris filio dedicatam Auctoris nomine Carmen</head>
+                  
+                  <l n="3.31.1">Mensus Apostolici spatium praenobile Regni,</l>
+                  <l n="3.31.2"> Ad cunas, Princeps, dirigo, Magne, Tuas.</l>
+                  <l n="3.31.3">Melle fluens et lacte solum, quod protulit olim</l>
+                  <l n="3.31.4"> Tot Bello magnos et Pietate Duces.</l>
+                  <l n="3.31.5">Id Tibi cum sacra debetur jure Corona, 5</l>
+                  <l n="3.31.6"> Ad quod nascendus, natus in illo es, eras.</l>
+                  <l n="3.31.7">Nascitur hìc, ubi quis primum vitae accipit esse,</l>
+                  <l n="3.31.8"> Quod Tibi Sempronii Regia in urbe datum,</l>
+                  <l n="3.31.9">Cum Pax Ungaricos inter tractata tumultus,</l>
+                  <l n="3.31.10"> O Utinam toti, te Duce, Pax sit humo! 10</l>
+                  <l n="3.31.11">Iureque succedis Patrio, succedis Avito,</l>
+                  <l n="3.31.12"> Ante coronatus, quàm sibi natus, eras.</l>
+                  <l n="3.31.13">Accipe nunc cunis Regnum in Regalibus istud,</l>
+                  <l n="3.31.14"> Postea quod regnes, quod tueare manu.</l>
+                  <l n="3.31.15">Ut quod, quamque fuit Stephano sub principe florens,   15</l>
+                  <l n="3.31.16"> Reflorescat idem, te sibi Rege, solum.</l>
+                  <l n="3.31.17">48  Barbara Threiciae fugiat contagio sectae,</l>
+                  <l n="3.31.18"> <supplied>[Pr]istinus</supplied> et Christo restituatur honor</l>
+                  <l n="3.31.19">Tu quod Apostolici reddes spes inclyta Regni,</l>
+                  <l n="3.31.20"> Quod faxint Superi, quod videatque Pater.   20</l>
+               </div>
+               <div type="div1" rend="P10">
+                  
+                     <head>31. Ad Effigiem Domini Georgii Matthiae Fischer Geographi</head>
+                  
+                  <l n="3.32.1">Haec est effigies Fischeri externa Georgij</l>
+                  <l n="3.32.2"> Nuper ab artifice sedulò facta manu.</l>
+                  <l n="3.32.3">Omnia sed pro apto miscere elementa colore.</l>
+                  <l n="3.32.4"> Posset, ubi internam pingere Apollo volet. </l>
+                  <dateline>76 M.DC.LXXX.III</dateline>
+               </div>
+               <milestone unit="page" n="76'"/>
+               <div type="div1" rend="P10">
+               
+                  
+                     <head>32. Generoso Domino Francisco Ivannovich Capitaneo</head>
+                  
+                  <l n="3.33.1">Non mirere, suis, quòd te (jam tempore longo)</l>
+                  <l n="3.33.2"> Rariùs invisat Ritter, Amice, notis;</l>
+                  <l n="3.33.3">Cuj priùs ex imo pandebat grandia corde</l>
+                  <l n="3.33.4"> Secreta, ùt verum devenerando patrem.</l>
+                  <l n="3.33.5">In quo ne penitus quidquam diffidere tentes,  5</l>
+                  <l n="3.33.6"> Neve alium, volo, quàm qui fuit ante, putes.</l>
+                  <l n="3.33.7">Nam vestes licet atque comam mutavit, amorem</l>
+                  <l n="3.33.8"> Et priscam mutat non tamen ille fidem.</l>
+                  <l n="3.33.9">Sed quia longinquis adeo reperitur in oris:</l>
+                  <l n="3.33.10"> Nec suus ex curis saepiùs esse potest. 10</l>
+                  <l n="3.33.11">Ex quibus haud solùm charis servire patronis,</l>
+                  <l n="3.33.12"> Sed nequit <expan>et</expan> summo saepiùs ille Deo.</l>
+                  <l n="3.33.13">Dînde quòd hinc abitum quovis quasi sole parabat:</l>
+                  <l n="3.33.14"> Ut propè amicorum possit adesse latus.</l>
+                  <l n="3.33.15">Cum quibus et totam cupiit consumere vitam 15</l>
+                  <l n="3.33.16"> Semper: et hac pro illis deficiente mori.</l>
+                  <l n="3.33.17">77  Iamque in praesenti non plus tibi scribo tabella.</l>
+                  <l n="3.33.18"> Quàm propè cernendum dilige me, atque vale.</l>
+                  <dateline>Viennâ 11. Ianuarii 1683. </dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>33. Generoso Domino Stephano Iellacsich Vice-Comiti, Capitaneo</head>
+                  
+                  <l n="3.34.1">Quae missis toties feci promissa tabellis,</l>
+                  <l n="3.34.2"> Explebo in paucos, axe favente, dies.</l>
+                  <l n="3.34.3">Scilicet Austriaci caput urbs insigne Ducatûs,</l>
+                  <l n="3.34.4"> Postremum accipiet vate abeunte vale.</l>
+                  <l n="3.34.5">In qua sat degi, tredecim propè mensibus, urbe: 5</l>
+                  <l n="3.34.6"> Fortunae et vitae maxima damna probans.</l>
+                  <l n="3.34.7">Hoc sola Patriae pro libertate; sed illa</l>
+                  <l n="3.34.8"> Parvùm erit in tanto grata labore mihi.</l>
+                  <l n="3.34.9">Sed spero in Regni (cujus pars Segnia) Patres:</l>
+                  <l n="3.34.10"> Quòd non sim quovis destituendus oro.  10</l>
+                  <l n="3.34.11">Ast ultrò illorum studeam servire favore,</l>
+                  <l n="3.34.12"> Et Patriae, <expan>et</expan> Regnis utilis esse tribus.</l>
+                  <l n="3.34.13">Feci quae potui, satìs est: plus nemo tenetur:</l>
+                  <l n="3.34.14"> Nec calamo fueram, nec fueram ore piger.</l>
+                  <l n="3.34.15">Ipsa ut pars possit contraria dicere; quantum 15</l>
+                  <l n="3.34.16"> Tota priùs timuit Segnia, fecit Eques.</l>
+                  <l n="3.34.17">Quòd tamen effectum non portem ad vota: potestas</l>
+                  <l n="3.34.18"> Non stetit in manibus tanta, profectò, meis.</l>
+                  <l n="3.34.19">77' Effectuque etiam non tanto fortè carerem:</l>
+                  <l n="3.34.20"> Si Vice-Span, id quod debuit esse, foret,  20</l>
+                  <l n="3.34.21">Non despero tamen, potiùs quin solor: amicos</l>
+                  <l n="3.34.22"> Expertura brevì est Segnia fortè deos.</l>
+                  <l n="3.34.23">Interea in primos tibi me commendo favores: </l>
+                  <l n="3.34.24"> Regnorum trium te mediante Duci.</l>
+                  <l n="3.34.25">Inque bona cupio jam teque tuosque salute 25</l>
+                  <l n="3.34.26"> Ad Buzin, Fautor mi, reperire. Vale.</l>
+                  <dateline>Viennâ 11. Ianuarii</dateline>
+               </div>
+               <div type="div1">
+                  
+                     <head>34. Generoso Domino Petro Prasinski de Prasno</head>
+                  
+                  <l n="3.35.1">Carmen ab ignoto legitur tibi fortè poëta:</l>
+                  <l n="3.35.2"> Stabilis Patriae, Petre, columna tuae.</l>
+                  <l n="3.35.3">Fortè nec ignoto tantum, quin nomine saltèm</l>
+                  <l n="3.35.4"> Antè oculos possim quando venire tuos.</l>
+                  <l n="3.35.5">Usque tamen cupii notus, vel notior, esse: 5</l>
+                  <l n="3.35.6"> Ex aliqua officii sedulitate novi.</l>
+                  <l n="3.35.7">Cùm mihi tu pridem, multum notissimus esses:</l>
+                  <l n="3.35.8"> Nempe per ingenii magna tallenta tui</l>
+                  <l n="3.35.9">Saepe in judicijs, etenim Regnique diaetis</l>
+                  <l n="3.35.10"> Mirabar tanti verba modumque Viri  10</l>
+                  <l n="3.35.11">78  Totus ab ore Tuo, Prassinski, loquente pependi:</l>
+                  <l n="3.35.12"> Non secùs àc Vates Delphici ab ore dei.</l>
+                  <l n="3.35.13">Cùmque suo pariter virtutum lumine claros</l>
+                  <l n="3.35.14"> Semper amore colam, semper honore, viros.</l>
+                  <l n="3.35.15">Hactenus at nostro tempus non favit amori:   15</l>
+                  <l n="3.35.16"> Segnius in Prasno quo legeretur Eques.</l>
+                  <l n="3.35.17">Sed mea, spero boni tandem quòd, tristia semper,</l>
+                  <l n="3.35.18"> In melius Superi vertere fata velint.</l>
+                  <l n="3.35.19">Ut mihi patronos, ut plures lucrer amicos:</l>
+                  <l n="3.35.20"> Quos per delicijs regna, ducesque tenent. 20</l>
+                  <l n="3.35.21">Tu sed materiam praebe, qua noscar alumnus</l>
+                  <l n="3.35.22"> Per ventura tuae saecula, Petre, Domus.</l>
+                  <l n="3.35.23">Forsitan nigratum tibi me, ceu spero, labore</l>
+                  <l n="3.35.24"> Non reddat pietas officiosa, suo.</l>
+                  <l n="3.35.25">Ter mihi jam quintus concepit currere mensis, 25</l>
+                  <l n="3.35.26"> Hic quod in Austriaca scilicet urbe moror </l>
+                  <l n="3.35.27">Post binos morbos, post binos dixero agones:</l>
+                  <l n="3.35.28"> Tantùm me Patria [...]<gap/> morata fuit.</l>
+                  <l n="3.35.29">[---]</l>
+               </div>
+               <div type="div1" rend="P10">
+                  <milestone unit="page" n="79"/>
+                  
+                     <head>35. die 2. Febr. Viennae</head> 
+                  
+                  <l n="3.36.1">Fingere te gracilem, te desine fingere pulchram,</l>
+                  <l n="3.36.2"> Et rapere ex oculis, bestia fęda, meis!</l>
+                  <l n="3.36.3">Quaerito agazones, divos non tangito vates,</l>
+                  <l n="3.36.4"> Iste diis sacer est spiritus, atque caro.</l>
+                  <l n="3.36.5">Namque etsi gracilis, formosa, et blandior esses, 5</l>
+                  <l n="3.36.6"> Te mea non caperet, propter amare, manus.</l>
+                  <l n="3.36.7">Qui Musas celebrant, puros decet esse poëtas,</l>
+                  <l n="3.36.8"> Hinc fontes Musis, hinc loca celsa, dicant.</l>
+                  <l n="3.36.9">Nulla novenarum cùm sis Celiandra sororum,</l>
+                  <l n="3.36.10"> Appage, quaecunque es: non mihi, crede, places. 10</l>
+                  <l n="3.36.11">  _______  </l>
+               </div>
+               <div type="div1" rend="P10">
+                  
+                     <head>35. a</head> 
+                  
+                  <l n="3.37.1">Proh quàm succedit rerum miserabilis ordo,</l>
+                  <l n="3.37.2"> Quàmque manet tristis tempora nostra status!</l>
+                  <l n="3.37.3">Iam quia vera loquens mentitur: munera donans</l>
+                  <l n="3.37.4"> Perdit, <expan>et</expan> est vera dictio falsa prior.</l>
+                  <l n="3.37.5">79'</l>
+               </div>
+               <div type="div1" rend="P10">
+                     <head>36. Ad Benignam
+                     <lb/> die 12. Februarii 1683.</head> 
+                  
+                  <l n="3.38.1">Iure Benigna fores dando dicenda, Benigna:</l>
+                  <l n="3.38.2"> Nam nil, <sic>quiquid</sic> habes, pulchra Benigna, negas.</l>
+                  <l n="3.38.3">Sed quia nil frustra das, dandum quaeris: amico es</l>
+                  <l n="3.38.4"> Semibenigna tuo, semimaligna tuo.</l>
+               </div>
+               <div type="div1">
+                  <head>
+                     37. &lt;Ad Tulipanam&gt; 
+                  </head>
+                  <l n="3.39.1">Res ego non verbis emo, quas tibi dono, sed aere:</l>
+                  <l n="3.39.2"> Re fac te gratam: verba nec aera peto.</l>
+                  <l n="3.39.3">Accipis ùtque à me, mea, rem, Tulipana, libenter:</l>
+                  <l n="3.39.4"> Des non dura mihi rem, Tulipana, velim.</l>
+                  <l n="3.39.5">Aere tibi si rem constantem donet amicus, 5</l>
+                  <l n="3.39.6"> Rem sibi da, quę te constat, amica, nihil.</l>
+                  <l n="3.39.7">Namque dari sibi vult à te, tibi qui dabit ante: </l>
+                  <l n="3.39.8"> Munera muneribus restituenda puta.</l>
+               </div>
+               <milestone unit="page" n="81"/>
+               <div type="div1" rend="P41">
+                  <head>
+                     42. Illustrissimo Domino Comiti Adamo à Zrinio, Sacrae Caesareae Regiaeque Maiestatis per Hungariam Agazonum Magistro
+                  </head>
+                  <l n="3.40.1">Quam legis, Adriaca missam tibi ab urbe, salutem</l>
+                  <l n="3.40.2"> Littera de famulo nuntia facta refert.</l>
+                  <l n="3.40.3">Haec me jam reducem Dravanis Patria castris</l>
+                  <l n="3.40.4"> Vexatum adversa sorte, viaque tenet.</l>
+                  <l n="3.40.5">Promissis ne fortè meis ferar immemor, isthinc 5</l>
+                  <l n="3.40.6"> Scribo aliqua paucas pro novitate notas.</l>
+                  <l n="3.40.7">Rectè, qua Comiti Lesle sociatus abîsti,</l>
+                  <l n="3.40.8"> Illa et ego pransus castra relinquo die,</l>
+                  <l n="3.40.9">Plurima cum pluvio perpessus tempore damna,</l>
+                  <l n="3.40.10"> Pars sua quae famulus profugus inter erat. 10</l>
+                  <l n="3.40.11">Aegra tuli, patria curandaque membra quiete, </l>
+                  <l n="3.40.12"> Unde novum, at coeptum promoveatur iter.</l>
+                  <l n="3.40.13">Hic mala tempestas, nupernis orta diebus,</l>
+                  <l n="3.40.14"> Saevit confuso valde nociva polo.</l>
+                  <l n="3.40.15">Ut, qui ibant nuper mittentes semina flendo, 15</l>
+                  <l n="3.40.16"> Seminaque <expan>et</expan> falces nunc periisse dolent.</l>
+                  <l n="3.40.17">Nam quibus intenso Ver frigore fortè pepercit,</l>
+                  <l n="3.40.18"> Has aestas gelido grandine pressit opes.</l>
+                  <l n="3.40.19">Saepè fames bellum sequitur. Deus auferat illam.</l>
+                  <l n="3.40.20"> Non cessant nostris Bella tonare plagis. 20</l>
+                  <l n="3.40.21">Nuper montanos vigiles amissimus isthìc</l>
+                  <l n="3.40.22"> Quos Perusitiacus jam sibi carcer habet.</l>
+                  <l n="3.40.23">Irruerant etiam rura in Gazkensia Turcae,</l>
+                  <l n="3.40.24"> Propulsi indemnes sed rediêre tamen.</l>
+                  <l n="3.40.25">Multa in vicinis Janko facit Illyrus oris, 25</l>
+                  <l n="3.40.26"> Tecta prope exurens Udviniensis agri. </l>
+                  <l n="3.40.27">81'  Dimicat is Veneto bene pro Duce strenuus: ante</l>
+                  <l n="3.40.28"> Pro Regni facere id Rege paratus erat.</l>
+                  <l n="3.40.29">Nunc ad Tinninium(quod Knin dixêre Croati)</l>
+                  <l n="3.40.30"> Fortia in instructo praelia Marte movet. 30</l>
+                  <l n="3.40.31">Attamen expectant Parmensia Principis arma,</l>
+                  <l n="3.40.32"> Atque aliquos Belli, navigiique Duces.</l>
+                  <l n="3.40.33">Ast ego credo magìs Venetum expectare Senatum:</l>
+                  <l n="3.40.34"> Qualis Budanae terminus Arcis erit?</l>
+                  <l n="3.40.35">Quamvìs Christiadum nunc arma movere deceret,  35</l>
+                  <l n="3.40.36"> Pluribus ut dextris allevietur opus,</l>
+                  <l n="3.40.37">Hinc pars militiae cum Carlociensibus ivit</l>
+                  <l n="3.40.38"> Ut Turcorum aliquem depopuletur agrum.</l>
+                  <l n="3.40.39">Ne mala (sed vereor) quae sunt nunc, tempora ijsdem</l>
+                  <l n="3.40.40"> Impediant caeptae prosperitatis iter. 40</l>
+                  <l n="3.40.41">Qualem cunque tamen vertent îjs numina sortem,</l>
+                  <l n="3.40.42"> Illa aderit per me notificata tibi.</l>
+                  <l n="3.40.43">Interea fausta multos tibi sorte triumphos,</l>
+                  <l n="3.40.44"> Successusque bonos opto, precorque. Vale.</l>
+                  <dateline>Segniae 2. Octobris 1684. </dateline>
+               </div>
+               <div type="div1" rend="P49">
+                  <head>
+                     43. Domino Iulio Henrico Libero Baroni ab <sic>Apfeltrem</sic>
+                  </head>
+                  <l n="3.41.1">Hasce tuus, Iuli, Ritter divertit in oras,</l>
+                  <l n="3.41.2"> Nominis illius mentio si qua tibi.</l>
+                  <l n="3.41.3">Ut Bogenspergam primùm pervenit in arcem,</l>
+                  <l n="3.41.4"> De te mox petiit dicier ille sibi.</l>
+                  <l n="3.41.5">Maestaque ubi sensit praeclarae fata maritae,  5</l>
+                  <l n="3.41.6"> Illustrem luctu deperiisse domum,</l>
+                  <l n="3.41.7">Ex niveo traxit sincerum corde dolorem,</l>
+                  <l n="3.41.8">82  Flevitque ùt propriae fata parentis, amor.</l>
+                  <l n="3.41.9">Sed quia sic voluit fati insuperabilis ordo,</l>
+                  <l n="3.41.10"> Dent illi aeterna Numina pace frui. 10</l>
+                  <l n="3.41.11">Et te, sive novo viduum solentur amore,</l>
+                  <l n="3.41.12"> Sive diu primas continuisse faces,</l>
+                  <l n="3.41.13">Attamen incolumem, felici et sorte beatum</l>
+                  <l n="3.41.14"> Vivere cum natis fausta per aeva tuis.</l>
+                  <l n="3.41.15">Te priùs, hinc quàm abeam, reverebor, amice Magister, 15</l>
+                  <l n="3.41.16"> Interea maneo, qui tuus ante. Vale.</l>
+                  <dateline>Ex Bogensperg 13. Octobris 1684. </dateline>
+               </div>
+               <milestone unit="page" n="83"/>
+               <div type="div1" rend="P10">
+                  <head>
+                     40. Reverendissimo ac Illustrissimo Domino Doymo Gaudentio, Episcopo Arbensi
+                  </head>
+                  <l n="3.42.1">Ante unum cum aliquot (reminiscor) mensibus annum,</l>
+                  <l n="3.42.2"> Carminibus, Praesul, te coluisse piis,</l>
+                  <l n="3.42.3">Quamvìs ignotus fuerim tibi carminis author,</l>
+                  <l n="3.42.4"> Oblatorque ejus carminis alter erat,</l>
+                  <l n="3.42.5">Plùs quia delector clarorum laude Virorum, 5</l>
+                  <l n="3.42.6"> Quàm proprio laudem quaero labore mihi.</l>
+                  <l n="3.42.7">Attamen optabam tibi charos inter haberi,</l>
+                  <l n="3.42.8"> Commoditas votis nec fuit ulla meis.</l>
+                  <l n="3.42.9">Nunc, quia non finit, quisquis non incipit, ista</l>
+                  <l n="3.42.10"> Mitto breves ad te commoditate notas. 10</l>
+                  <l n="3.42.11">Illyricumque penès patria pro gente libellum,</l>
+                  <l n="3.42.12"> Sempronicas Grates, mitto, Sacrumque Chorum,</l>
+                  <l n="3.42.13">Scilicet in quaedam devoti signa tributi,</l>
+                  <l n="3.42.14"> Quod Vates teneor pro pietate novus,</l>
+                  <l n="3.42.15">Quandoquidem divo multum cum fratre tenentur  15</l>
+                  <l n="3.42.16"> Pierides, suada et sacra Sophia tibi.</l>
+                  <l n="3.42.17">Haec in me via sint jussorum plana tuorum,</l>
+                  <l n="3.42.18"> Haecque mea sint in te via prima spei.</l>
+                  <l n="3.42.19">Quando tuos inter numerarier, opto, clientes</l>
+                  <l n="3.42.20"> Opto bene atque diu teque valere. Vale.  20</l>
+                  <dateline>Segniae 23. Septembris 1684.</dateline>
+                  <milestone unit="page" n="84"/>
+                  <note>29. Xbris 1683.</note>
+               </div>
+               <div type="div1" rend="P49">
+                  <head>
+                     39. Ad Comitem Zrinium Adamum
+                  </head>
+                  <l n="3.43.1">Annua jam primi rediêrunt festa Parentis,</l>
+                  <l n="3.43.2"> Natalique Tuo, Zrini, sacrata dies.</l>
+                  <l n="3.43.3">Qua, preciosa mihi debebant munera quini,</l>
+                  <l n="3.43.4"> Per vincla manibusque ritè ferenda tuis.</l>
+                  <l n="3.43.5">Sacra deinde dies totum est celebrata per orbem,  5</l>
+                  <l n="3.43.6"> Qua peperit summum casta puella Deum</l>
+                  <l n="3.43.7">Tuncque ego [...]<gap/> gentis (veteri de more) tenebar</l>
+                  <l n="3.43.8"> Lenia patrono poma sacrare meo.</l>
+                  <l n="3.43.9">Nulla tamen misi Natali vincula festo, </l>
+                  <l n="3.43.10"> Nulla salutifero do tibi poma die.  10</l>
+                  <l n="3.43.11">Iamque novis veniunt primordia mensibus anni,</l>
+                  <l n="3.43.12"> 
+                  <expan>et</expan> xenium poscunt haec quoque festa novum</l>
+                  <l n="3.43.13">[...]<gap/> fateor, mea nec delicta suborno,</l>
+                  <l n="3.43.14"> Arguor et Vates criminis [...]<gap/> mori.</l>
+                  <l n="3.43.15">Sed si quibus veniam peccata fatendo meretur, 15</l>
+                  <l n="3.43.16"> Hic venia est Equiti danda perfectò Tuo.</l>
+                  <l n="3.43.17">84' Inter nulla etenim pergrandibus otia curis</l>
+                  <l n="3.43.18"> Crede, meus nequij, Zrini, nec esse Tuus:</l>
+                  <l n="3.43.19">Hoc tamen à xenio venturi haud liberat anni:</l>
+                  <l n="3.43.20"> Facta solent Parci, non facienda, mala. 20</l>
+                  <l n="3.43.21">Vellem quod teneor, sed sors mihj Parca et iniqua</l>
+                  <l n="3.43.22"> Illud quod vellem, quod teneorque, negat.</l>
+                  <l n="3.43.23">At suppono meam te ipsum defendere causam,</l>
+                  <l n="3.43.24"> Cum facit ille satis qui sibi posse facit.</l>
+                  <l n="3.43.25">Solvereque incepit qui se debere fatetur, 25</l>
+                  <l n="3.43.26"> Effectum affectus supplet ubique bonus.</l>
+                  <l n="3.43.27">Spesque aliunde tenet, quod magni more parentis</l>
+                  <l n="3.43.28"> Prae cunctis opibus nomen honoris ames.</l>
+                  <l n="3.43.29">Ergo ego, quae possum, producere munera possim,</l>
+                  <l n="3.43.30"> Quae, ùt grata tibi, munera laudis erunt. 30</l>
+                  <l n="3.43.31">Paucula sunt: multoque Comes potiora mereris,</l>
+                  <l n="3.43.32"> Cum merito haud penses sed mea dona tuo.</l>
+                  <l n="3.43.33">Nam miseris quid sors, nisi vota et verba, poetis,</l>
+                  <l n="3.43.34"> Et vacuum toto nomen in orbe dedit?</l>
+                  <l n="3.43.35">Vota Tibj paucis dono contenta figuris, 35</l>
+                  <l n="3.43.36"> Audiat illa deus tuque lubenter habe.</l>
+                  <l n="3.43.37">
+            <unclear>[......]<gap/>lentus</unclear> discedis laetus in urbe.</l>
+                  <l n="3.43.38"> Prima tibi ut dulcis festa ministrat Amor.</l>
+                  <l n="3.43.39">Vade, et iter faciant Tibi Caelica numina faustum,</l>
+                  <l n="3.43.40"> Fortunentque novum cum <unclear>†mea†</unclear> sorte torum. 40</l>
+                  <l n="3.43.41">Cum qua <unclear>†danda†</unclear> brevi patrios accede Penates.</l>
+                  <l n="3.43.42"> Auge et in Illyricis nobile stemma plagis</l>
+                  <milestone unit="page" n="85"/>
+               </div>
+               <div type="div1" rend="P49">
+                  <head>
+                     41. {5.} 7bris 1684. in Castris Campi Barcsa Comiti Adamo Zrinio
+                  </head>
+                  <div type="div2">
+                     <l n="3.44.1.1">Littera parva meum per me visura Patronum</l>
+                     <l n="3.44.1.2"> Tecta verecundo sub tua fronte venit.</l>
+                     <l n="3.44.1.3">Quid sit id (exquires), pudor isteque pervenit unde?</l>
+                     <l n="3.44.1.4"> Hae primae non sunt <unclear>†ad mea†</unclear> tecta vices.</l>
+                     <l n="3.44.1.5">Torrentem tua, Paule, timet fors littera Dravum? 5</l>
+                     <l n="3.44.1.6"> Quid cum sterilem patriae vivit illa meae.</l>
+                     <l n="3.44.1.7">Vel fors candorem quocunque errore notavit? </l>
+                     <l n="3.44.1.8"> Errare est hominis. Fave quid istud habet.</l>
+                     <l n="3.44.1.9">Non timet auricomum, Zrini, mea littera Dravum,</l>
+                     <l n="3.44.1.10"> Assueta Adriaci fluctibus illa meis. 10</l>
+                     <l n="3.44.1.11">Nulla etiam primum candorem culpa notavit,</l>
+                     <l n="3.44.1.12"> Perstat <expan>et</expan> in nigra candida veste fides.</l>
+                     <l n="3.44.1.13">Nascitur ex alia, Comes, ista pudentia causa;</l>
+                     <l n="3.44.1.14"> Dicere quam (rogo) plùs, quàm tolerare juvet.</l>
+                     <l n="3.44.1.15">Quartus adest LIncense solum quòd visero mensis, 15</l>
+                     <l n="3.44.1.16"> Et proculà Patria, Militiaque moror.</l>
+                     <l n="3.44.1.17">Postquam Equitum titulo sum partus reque Majorum,</l>
+                     <l n="3.44.1.18"> Justa Sigethani <emph>Perseliique</emph>  ducis.</l>
+                     <l n="3.44.1.19">Bisque iter assumpsi, toties reversus ab illo:</l>
+                     <l n="3.44.1.20"> Isthaec castra modò sunt mihi tertium iter. 20</l>
+                     <l n="3.44.1.21">[...]<gap/>  nuper <unclear>†Bani sociatus adivi†</unclear>:</l>
+                     <l n="3.44.1.22"> Gricium, non Budam dum fore credo meum.</l>
+                     <l n="3.44.1.23">85'  Sed nec in hoc favit fallax fortuna meatu:</l>
+                     <l n="3.44.1.24"> Spem longè Buda sentio abesse meam.</l>
+                     <l n="3.44.1.25">Sic moror hìc exspes quasi tam procul aede, meisque, 25</l>
+                     <l n="3.44.1.26"> Longinqua ardentem cum tegit unda focum.</l>
+                     <l n="3.44.1.27">Temporis experior casus; succurrere semper</l>
+                     <l n="3.44.1.28"> Rebus in humanis deteriora solent.</l>
+                     <l n="3.44.1.29">Nam quidcunque domi non est [...]<gap/> spe non est,</l>
+                     <l n="3.44.1.30"> Non <unclear>cod[..]</unclear> violet <unclear>horr[..] ro[..]</unclear> parit.:  30</l>
+                     <l n="3.44.1.31">
+              <unclear>†In statu mihi†</unclear> castra haec longinquaque sat sunt, </l>
+                     <l n="3.44.1.32"> In nova quod portat tecta quid, illud habet</l>
+                     <l n="3.44.1.33">{(1)} Hactenus expendi multa <expan>et</expan> penè omnia: restet</l>
+                     <l n="3.44.1.34"> Ut per nunc, quatuor nil mihi, praeter equos</l>
+                     <l n="3.44.1.35">{(2)} Quod si veridicus famuli dominusque jubentur  35</l>
+                     <l n="3.44.1.36"> (ò Equitis sortes) ire profecto pedes.</l>
+                     <l n="3.44.1.37">{(3)} Sed, moror in Patria, nil castris miles in istis,</l>
+                     <l n="3.44.1.38"> Non tolerant longam munia nostra moram. </l>
+                     <l n="3.44.1.39">{(4)} Forte brevi socias adibo videre cohortes,</l>
+                     <l n="3.44.1.40"> Atque ideò castra haec fortè relinquo brevi. 40</l>
+                     <l n="3.44.1.41">{(5)} Ad te curro meum, Comes ò generose, Patronum,</l>
+                     <l n="3.44.1.42"> Quô genius mihi spem, quô mihi Musa dedit.</l>
+                     <l n="3.44.1.43">{(6)} Subvenias aliquo Vati, famuloque favore, </l>
+                     <l n="3.44.1.44"> Ut melius nostrum permoveatur iter.</l>
+                     <l n="3.44.1.45">Aut his Virtutum vetuit dilectio Nostrum 45</l>
+                     <l n="3.44.1.46"> Ad Te Patronum me recurisse pium.</l>
+                     <l n="3.44.1.47">86 Sed quoniam verè est res immo puta necesse:</l>
+                     <l n="3.44.1.48"> Illa nihil legis, nilque pudoris habet, </l>
+                     <l n="3.44.1.49">Majori venio, sed supplex (semel ùt) ausu:</l>
+                     <l n="3.44.1.50"> Patronus magnus, spes quoque magna mihi est.  50</l>
+                     <l n="3.44.1.51">Sic narrare tui (fateor) benefacta Parentis</l>
+                     <l n="3.44.1.52"> Audivi nostrum plurima saepe patrem.</l>
+                     <l n="3.44.1.53">Ille toga, ille sago praeclarum nomen adeptus,</l>
+                     <l n="3.44.1.54"> Nec minus adeptus dapsilitate fuit.</l>
+                     <l n="3.44.1.55">Hinc charus Regi, et Patriae, dilectus amicis,  55</l>
+                     <l n="3.44.1.56"> Perpetuum toto nomen in orbe tenet.</l>
+                     <l n="3.44.1.57">Id quoque tu facies ultrò pro vate ligando,</l>
+                     <l n="3.44.1.58"> Parva tibi res est, quam peto, magna mihi.</l>
+                     <l n="3.44.1.59">Ut te nulla meae sileant per otia Musae,</l>
+                     <l n="3.44.1.60"> Quod toties novi, <emph>  [...]<gap/> adesse</emph>  tibi. 60</l>
+                     <l n="3.44.1.61">Qui digno sua dat, Maecenas -----</l>
+                     <l n="3.44.1.62"> Sat bene: nam recipit dona ita dando sua.</l>
+                     <l n="3.44.1.63">Frangitur ex proprio laus quae venit ore; loquentur</l>
+                     <l n="3.44.1.64"> Post <sic>aliij</sic>, nec pro nunc ego plura loquar.</l>
+                     <l n="3.44.1.65">Atque ita me qualem vis, qualem feste spopondi 65</l>
+                     <l n="3.44.1.66"> Me tibi conabor reddere Paulus Eques.</l>
+                  </div>
+                  <div type="div2">
+                     <head>P. S. </head>
+                     <l n="3.44.2.1">Parce tot insertis scriptam <sic>mississe</sic> tabellam: </l>
+                     <l n="3.44.2.2"> Sunt Vati in castris otia <sic>nula</sic> tuo.</l>
+                     <note>87  </note>
+                  </div>
+               </div>
+               <div type="div1">
+                  <head>
+                     38. Ad Dominum Comitem Adamum à Zrinio 12. Xbris 1683.
+                  </head>
+                  <l n="3.45.1">O patris spes magna <unclear>hi[...]<gap/>res</unclear>, inclyte Zrini,</l>
+                  <l n="3.45.2"> Magni olim Bello paceque nate Patris,</l>
+                  <l n="3.45.3">Ad lauta hesterno tecum [...]<gap/> prandia sole</l>
+                  <l n="3.45.4"> Cum Consorte  Juras <unclear>glo[..]que</unclear>  Banus erat.</l>
+                  <l n="3.45.5">Attente  moresque tuos et verba notabas 5</l>
+                  <l n="3.45.6"> Omnia quae magni signa fuêre Viri.</l>
+                  <l n="3.45.7">Attamen ex reliquis, quibus es virtutibus uber:</l>
+                  <l n="3.45.8"> Es mihi Pierias visus amare Deas.</l>
+                  <l n="3.45.9">Quod summe laetor, <emph>invitoque in Pectore</emph>  dixi:</l>
+                  <l n="3.45.10"> Patronum inveniet nostra Camena suum. 10</l>
+                  <l n="3.45.11">Sed quòd heri nequii mensales promere versus: </l>
+                  <l n="3.45.12"> Tota nimis sumptus causa Lyaeus erat. </l>
+                  <l n="3.45.13">Nam Musis tantum fontes et stagna sacrantur:</l>
+                  <l n="3.45.14"> Solus in hac <sic>prestat</sic> Ennius arte meus.</l>
+                  <l n="3.45.15">87' Hinc precor ut parcas, nam quod tunc deficit ori, 15</l>
+                  <l n="3.45.16"> Supplebant jussis corda dicata tuis.</l>
+                  <l n="3.45.17">Et posthac non os tantum, sed dextera, Zrinj,</l>
+                  <l n="3.45.18"> Et Domui ut titulis serviet ista tuis.</l>
+                  <l n="3.45.19">Patronum (ut dixi) nostrae te spero Camaenae,</l>
+                  <l n="3.45.20"> Commeruit Zrinam quò magìs illa domum, 20</l>
+                  <l n="3.45.21">Nempe sigethanas tristis dum plangit ad arces,</l>
+                  <l n="3.45.22"> Hectoris Illyrici funus et arma canens.</l>
+                  <l n="3.45.23">Quae non me solo, nostrum quocunque legente</l>
+                  <l n="3.45.24"> Dicta est Slavonicos promeruisse typos.</l>
+                  <l n="3.45.25">Illi Slavonicam studiò quia texui vestem, 25</l>
+                  <l n="3.45.26"> Ut ducis ipsius patria et arcis erat.</l>
+                  <l n="3.45.27">Nam magìs Illyricae, quae cantavere puellae</l>
+                  <l n="3.45.28"> Quàm Latiae juveni metrica in arte favent.</l>
+                  <l n="3.45.29">Interea felix ter, Zrini, quaterque valeto.</l>
+                  <l n="3.45.30">Meque tuum habeto, meos [------]<gap/> 30</l>
+                  <l n="3.45.31">Et tua me servet [......]<gap/> quaeso tuum.</l>
+                  <dateline>eX obreX festo DIVae LVCIae MartyrIs</dateline>
+               </div>
+               <div type="div2">
+                  <head>Cum <sic>anagramate</sic>
+          </head>
+                  <head>
+                     diva Lucia
+                  </head>
+                  <head>Lucida via 35</head>
+                  <head>Disticon</head>
+                  <l n="3.46.1">Amissis oculis sequitur pia lucia sponsum,</l>
+                  <l n="3.46.2"> Est via nam coeli lucida, castus amor.</l>
+               </div>
+      
+            </div>
+      </body>
+   </text>
+</TEI>
