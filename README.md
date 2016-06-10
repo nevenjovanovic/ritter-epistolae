@@ -19,7 +19,7 @@ Clone the repository using Git. Replicate the databases using BaseX and XQuery s
 
 ## License
 
-CC-BY
+[CC-BY](LICENSE.md)
 
 
 
