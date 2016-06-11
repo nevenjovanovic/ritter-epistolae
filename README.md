@@ -12,6 +12,10 @@ Clone the repository using Git. Replicate the databases using BaseX and XQuery s
 + [reports](reports): results of XQueries as HTML pages
 + [papers](papers): slides and text of the paper by Stepanić, presented at the Colloquium Marulianum XXVI, Split 2016 (in Croatian)
 
+### Queries and results
+
+See the descriptions in [xq/howto.md](xq/howto.md).
+
 ## The team
 + Violeta Moretti, University Juraj Dobrila of Pula
 + Gorana Stepanić, University Juraj Dobrila of Pula
