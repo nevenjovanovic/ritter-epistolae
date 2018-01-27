@@ -7,9 +7,9 @@ Clone the repository using Git. Replicate the databases using BaseX and XQuery s
 
 ## Contents
 
-+ [data](data): TEI XML editions of Ritter's epistles, prepared by Violeta Moretti and Gorana Stepanić
++ [data](data): TEI XML editions of Ritter's epistles, prepared by Violeta Moretti and Gorana Stepanić; the [vitezov01](data/vitezov01) directory contains CTS-compatible TEI XML editions of all of Ritter's texts available in CroALa (added January 2018)
 + [xq](xq): XQueries to create and analyse XML databases of Ritter's and Ovid's poetic letter
-+ [reports](reports): results of XQueries as HTML pages
++ [reports](reports): results of XQueries as HTML pages; the [wordlists](reports/wordlists) directory contains list of words used in Ritter's epistles (added January 2018)
 + [papers](papers): slides and text of the paper by Stepanić, presented at the Colloquium Marulianum XXVI, Split 2016 (in Croatian)
 
 ### Queries and results
